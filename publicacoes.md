@@ -292,7 +292,7 @@ permalink: /publicacoes.html
 3. Eric Rommel Galvão Dantas. PuzzlEdu: Uma Proposta de Software Educacional Modelado como Serviço para Apoiar o Ensino/Aprendizagem de Programação Orientada a Objetos. 2011. Dissertação (Ciências da Computação) – Universidade Federal de Pernambuco. (Supervision: Vinicius Cardoso Garcia).
 4. Anderson Fonseca e Silva. Uma ferramenta para rastreabilidade de core assets em Linhas de Produtos de Software. 2011. Dissertação (Mestrado Profissional em Engenharia de Software) – Centro de Estudos e Sistemas Avançados do Recife. (Supervision: Vinicius Cardoso Garcia)
 
-### TCC / Undergraduate
+### Monografias / Monographies
 
 1. Elyda Laisa Soares Xavier. Um Estudo sobre Ferramentas CASE para Gerenciamento do Processo de Engenharia de Domínio em Linha de Produtos de Software. 2011. Trabalho de Conclusão de Curso. (Graduação em Sistemas de Informação) – Universidade de Pernambuco. (Co-supervision: Vinicius Cardoso Garcia)
 2. Diógenes Ricardo Freitas de Oliveira. UM ESTUDO SOBRE GERENCIAMENTO DE VARIABILIDADE EM LINHA DE PRODUTOS DE SOFTWARE. 2011. Trabalho de Conclusão de Curso. (Graduação em Sistemas de Informação) – Universidade de Pernambuco. (Co-supervision: Vinicius Cardoso Garcia)
@@ -317,7 +317,7 @@ permalink: /publicacoes.html
 1. Cristiano Tavares Silva. Um Experimento de Engenharia de Requisitos para caracterização do Processo e sua Adequação às Práticas Específicas do CMMI. 2010. Dissertação (Mestrado Profissional em Engenharia de Software) – Centro de Estudos e Sistemas Avançados do Recife. (Supervision: Vinicius Cardoso Garcia)
 2. Átila Andrade Bittencourt Paula. UMA PROPOSTA PARA EXPANSÃO SEMÂNTICA DE CONSULTAS BASEADA EM ONTOLOGIA DE DOMÍNIO ESPECÍFICO. 2010. Dissertação (Mestrado Profissional em Engenharia de Software) – Centro de Estudos e Sistemas Avançados do Recife. (Co-supervision: Vinicius Cardoso Garcia).
 
-### TCC / Undergratuate
+### Monografias / Monographies
 
 1. Ariane Nunes Rodrigues. Usabilidade em Páginas Web sob a ótica das 10 Heurísticas de Nielsen: Um Estudo de Caso no SIGA da UPE Campus Caruaru. 2010. Trabalho de Conclusão de Curso. (Graduação em Sistemas de Informação) – Universidade de Pernambuco. (Co-supervision: Vinicius Cardoso Garcia)
 
