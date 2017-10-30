@@ -17,6 +17,13 @@ permalink: /pessoal.html
 * **Paulo Anselmo da Mota Silveira Neto**, M.Sc., Ph.D. at [Centro de Informática](http://www.cin.ufpe.br) (UFPE) & Assistant Professor (UFRPE), [Lattes](http://lattes.cnpq.br/6465144387155252)
 * **Ricardo Alexandre Afonso**, M.Sc., Ph.D. at [Centro de Informática](http://www.cin.ufpe.br) (UFPE) & Assistant Professor (UFAL), [Lattes](http://lattes.cnpq.br/3117877031824338)
 
+# Collaborators
+
+* **Alexandre Alvaro**, Ph.D., Adjunct Professor, Universidade Federal de São Carlos (UFSCar) - Campus Sorocaba, [Lattes](http://lattes.cnpq.br/9929982894313130)
+* **Daniel Lucrédio**, Ph.D., Adjunct Professor, Departamento de Computação (UFSCar), Campus São Carlos, [Lattes](http://lattes.cnpq.br/9090396559596221)
+* **Fernando Antônio Mota Trinta**, Ph.D., Adjunct Professor, Departamento de Computação (UFC), [Lattes](http://lattes.cnpq.br/8908026219336623)
+* **Celio Andrade de Santana Junior**, Ph.D., Adjunct Professor, Departamento de Ciência da Informação (UFPE), [Lattes](http://lattes.cnpq.br/3656327420806840)
+
 # Current members
 
 * **Kellyton dos Santos Brito**, M.Sc., Ph.D. candidate at [Centro de Informática](http://www.cin.ufpe.br) (UFPE) & Assistant Professor (UFRPE), [Lattes](http://lattes.cnpq.br/8750956715158540)
@@ -30,29 +37,7 @@ permalink: /pessoal.html
 * **Thiago Jamir e Silva**, M.Sc., Software Architect ([USTORE](http://ustore.com.br/)), [Lattes](http://lattes.cnpq.br/9832803117127707)
 * **Lenildo José de Morais**, M.Sc., Project Manager ([USTORE](http://ustore.com.br/)), [Lattes](http://lattes.cnpq.br/5598020362509442)
 * **Victor Chaves Casé**, B.Sc., Software Mobile Architect ([USTORE](http://ustore.com.br/)), [Lattes](http://lattes.cnpq.br/4176953740033046)
-
-# Collaborators
-
-* **Alexandre Alvaro**, Ph.D., Adjunct Professor, Universidade Federal de São Carlos (UFSCar) - Campus Sorocaba, [Lattes](http://lattes.cnpq.br/9929982894313130)
-* **Daniel Lucrédio**, Ph.D., Adjunct Professor, Departamento de Computação (UFSCar), Campus São Carlos, [Lattes](http://lattes.cnpq.br/9090396559596221)
-* Fernando Antônio Mota Trinta, Ph.D., Adjunct Professor, Departamento de Computação (UFC), [Lattes](http://lattes.cnpq.br/8908026219336623)
-* Celio Andrade de Santana Junior, Ph.D., Adjunct Professor, Departamento de Ciência da Informação (UFPE), [Lattes](http://lattes.cnpq.br/3656327420806840)
-
-# Alumni
-
-* Gustavo Henrique Rodrigues Pinto Tomas, M.Sc., CIn (UFPE) & System Engineer (CESAR), [Lattes](http://lattes.cnpq.br/7336395353703434)
-* Welington Manoel da Silva, M.Sc., CIn (UFPE) & System Engineer (CESAR), [Lattes](http://lattes.cnpq.br/7749897538437603)
-* Thiago Pereira de Brito Vieira, M.Sc., [Centro de Informática](http://www.cin.ufpe.br) (UFPE) & Analyst (ANATEL), [Lattes](http://lattes.cnpq.br/9213156996136744)
-* Paulo Fernando Almeida Soares, M.Sc., PhD. candidate at UFBA, [Lattes](http://lattes.cnpq.br/1526313007298319)
-* Hilson Gomes Vilar de Andrade, M.Sc. at [Centro de Informática](http://www.cin.ufpe.br) (UFPE), Professor at Instituto Federal de Pernambuco, [Lattes](http://lattes.cnpq.br/1329499647057192)
-* José Lutiano Costa da Silva, M.Sc. at [Centro de Informática](http://www.cin.ufpe.br) (UFPE), Director at Processamento de Dados do Estado do Amapá (PRODAP), [Lattes](http://lattes.cnpq.br/5662011229583341)
-* Bruno Falcão Leão Maia, Professional M.Sc. CESAR.EDU, [Lattes](http://lattes.cnpq.br/0655095011675877)
-* Dhiego Abrantes de Oliveira Martins, M.Sc. at [Centro de Informática](http://www.cin.ufpe.br) (UFPE), Software Engineer at Phoebus Tecnologia, [Lattes](http://lattes.cnpq.br/8698272062028000)
-* Saulo Medeiros de Araujo, M.Sc. at [Centro de Informática](http://www.cin.ufpe.br) (UFPE) & Software Architect at Banco Central (BACEN), [Lattes](http://lattes.cnpq.br/2753513833413583)
-* Elaine Gleyce Mira de Figueiredo, M.Sc., Project Manager (Ogilvy & Mather, OGILVY), [Lattes](http://lattes.cnpq.br/1180868433498892)
-* Francisco Airton Pereira da Silva, M.Sc., Ph.D. at [Centro de Informática](http://www.cin.ufpe.br) (UFPE), [Lattes](http://lattes.cnpq.br/6100546713818163)
-* Marco André Santos Machado, M.Sc., Software Engineer ([USTORE](http://ustore.com.br/)), [Lattes](http://lattes.cnpq.br/9735346642847699)
-* Jean Louis Brasil Fernandes da Costa, M.Sc., Software Engineer ([USTORE](http://ustore.com.br/)), [Lattes](http://lattes.cnpq.br/2717442684133785)
-* Isabel Oliveira Jordão do Amaral, Information Systems B.Sc. at [Centro de Informática](http://www.cin.ufpe.br) (UFPE), [Lattes](http://lattes.cnpq.br/3242197620382700)
-* Bruno Moura, B.Sc., UFRPE, [Lattes](http://lattes.cnpq.br/)
-* Rodrigo Hime, B.Sc., UFRPE, [Lattes](http://lattes.cnpq.br/)
+* **Alysson Alves de Lima**, M.Sc., Ph.D. candidate at [Centro de Informática](http://www.cin.ufpe.br) (UFPE), [Lattes](http://lattes.cnpq.br/7684467910401597)
+* **Felipe Oliveira Gutierrez**, M.Sc., Ph.D. candidate at [Centro de Informática](http://www.cin.ufpe.br) (UFPE), [Lattes](http://lattes.cnpq.br/8633775775597854)
+* **Elyda Laisa Soares Xavier Freitas**, M.Sc., Ph.D. candidate at [Centro de Informática](http://www.cin.ufpe.br) (UFPE), [Lattes](http://lattes.cnpq.br/0804375840636282)
+* **Sandrine Ventura Martins**, M.Sc. candidate at [Centro de Informática](http://www.cin.ufpe.br) (UFPE), [Lattes](http://lattes.cnpq.br/3989518164012856)
