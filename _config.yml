@@ -1,5 +1,5 @@
 title: ASSERT
-description: Advanced System and Software Engineering Research Technologies Lab.
+description: Advanced System and Software Engineering Research Technologies Lab
 show_downloads: false
 
 baseurl: "" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
@@ -25,3 +25,9 @@ facebook:
   app_id: 1798910940422432 # cayman-blog
   #authors: lorepirri
 #  admins:
+github:
+  owner_name: assertlab
+  owner_url: https://github.com/assertlab
+
+gems:
+  - jekyll-feed
