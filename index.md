@@ -8,10 +8,4 @@
 layout: home
 ---
 
-Cayman Blog Theme is a clean, responsive blogging theme for Jekyll, with social features. It is inspired by the Cayman Theme for Github Pages, which can be greatly used for single projects but not as blogging platform.
-
-This theme has instead all you need to start today blogging with Jekyll, and no effort: pages, posts, few social buttons. Try loading this on mobile too.
-
-Have a look at the Github page for more information.
-
-You find this descriptive text in the `index.md` file, so you can change it, or remove it completely, according to your needs.
+O **ASSERT Lab** é um grupo de pesquisa que tem por objetivo investigar e desenvolver soluções, técnicas e processos para melhorar os níveis de produtividade e qualidade em ambientes de TI de larga escala e complecidade sem comprometer os fatores de qualidade de software e da vida humana envolvida. Somos um grupo multi-institucional e distribuído formado por pesquiadores e diversos centros e instituições de pesquisa e desenvolvimento. Somos parte do [**Instituto Nacional** de Ciência e Tecnologia **para Engenharia de Software** (INES)](http://www.ines.org.br/){:target="_blank"}.

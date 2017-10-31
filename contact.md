@@ -1,14 +1,28 @@
 ---
 layout: page
-title: Contact
-tagline: Create a contact form and you are good to go
+title: Contato
+tagline: Entre em contato
 ---
 
-Jekyll is a great tool to create static sites but with static site, there's no backend to send your data to: that is why it's hard to put a form on a Jekyll site.
+Att. [Prof. Vinicius C. Garcia](http://viniciusgarcia.me){:target="_blank"}
 
-Here listed some resources which provide  a saas service as a backend for forms (contact forms, hiring forms, etc.) to designers and developers like you:
-1. [Formspree (also open source, free)](https://formspree.io/)
-2. [FormKeep](https://formkeep.com/guides/contact-form-jekyll)
-3. [Simple Form](https://getsimpleform.com/)
+Departamento de Informação e Sistemas
+
+[Centro de Informática](http://www.cin.ufpe.br){:target="_blank"} – [Universidade Federal de Pernambuco](http://www.ufpe.br){:target="_blank"}
+
+Av. Jornalista Anibal Fernandes s/n – Cidade Universitária (Campus Recife), 50740-560 Recife-PE, Brazil.
+
+Tel: (+55 81) 2126-8430, x4092 Fax: (+55 81) 2126-8438
+
+<form method="POST" action="http://formspree.io/vcg@cin.ufpe.br">
+    <input type="name" name="name" placeholder="Your name">
+    <br><br>
+    <input type="email" name="email" placeholder="Your email">
+    <br><br>
+    <textarea name="message" placeholder="Your message"></textarea>
+    <br>
+    <input type="hidden" name="utf8" value="✓">
+    <button type="submit">Enviar</button>
+</form>
 
 [Go to the Home Page]({{ site.url }}{{ site.baseurl }})
