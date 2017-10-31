@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Defesa de Dissertação de Mestrado Nº 1.727"
+categories: Defesa
 ---
 
 ## Pós-Graduação em Ciência da Computação – UFPE
