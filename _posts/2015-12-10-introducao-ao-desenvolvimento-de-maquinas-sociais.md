@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Introdução ao desenvolvimento de Máquinas Sociais hiper-escaláveis"
-categories: Mestrado
+categories: Pesquisa
+tag: mestrado
 ---
 
 A evolução atual da máquina de turing e sua complexidade são incentivadas por desafios que confrontam os ambientes computacionais. Dentre os inúmeros fatores, temos mudança de requisitos dos usuários (pessoas que usavam PCs preferem a mobilidade de  smartphones), as leis de Moore [1] e Amdahl [2] que desafiam o desenvolvimento de algorítmos, a falta de viabilidade financeira, falta de maturidade de modelos e processos, ou o crescimento instantâneo e exponencial de serviços (spikes).

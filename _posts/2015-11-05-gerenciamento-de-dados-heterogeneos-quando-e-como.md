@@ -1,0 +1,20 @@
+---
+layout: post
+title: "Gerenciamento de dados heterogêneos: quando e como começar"
+categories: Pesquisa
+tag: doutorado
+---
+
+Nas últimas décadas, o aumento do poder computacional produziu um fluxo impressionante de dados que provocou uma mudança de paradigma no processamento de dados em grande escala. Assim, tivemos uma explosão no volume, velocidade e na variedade de tipos e fontes de dados, a qual podemos nos referir como Big Data. Contudo, o acesso a estes diversos tipos e fontes de dados tornou se complexo. Heterogeneidade, escala, pontualidade, complexidade, privacidade e valor são os desafios do Big Data.
+
+Heterogeneidade de dados é um desafio importante em qualquer contexto onde um software lida diretamente com os dados. Nos dias atuais, a necessidade de homogeneização está conduzindo várias técnicas e práticas da indústria, conhecidas com várias expressões similares tais como federação de dados e integração de dados empresariais, que pode ser classificada em dois tipos de abordagens gerais para o problema: gerenciamento de dados mestres (_master data management_); e transformação de dados.
+
+A maior expectativa de sistemas complexos é uma integração transparente, onde os dados possam ser acessados, recuperadas e tratados com técnicas, ferramentas e algoritmos uniformes. Dessa maneira, integração pode ser vista como o oposto da heterogeneidade. Mas passar de dados altamente heterogêneos para dados integrados é o tema principal da integração de dados, disciplina essa que estabelece, em termos formais, todos os processos e as etapas técnicas e algorítmicas necessárias para transformar dados.
+
+A heterogeneidade é um problema duplo. Ele tem uma conotação técnica e uma teórica. Os dados podem ser distribuídos em fontes de dados diferentes, memorizados em vários formatos e tipos de codificação, e serem consultados através de interfaces de programação incompatíveis. A partir de um ponto de vista técnico, todos estes tipos de problemas podem ser resolvidos com a criação de arquiteturas de adaptação adequadas, envolvendo a presença de um certo número de conectores de homogeneização. Por outro lado, o problema principal com a heterogeneidade é que os dados podem ser intrinsecamente diferentes porque diferentes modelos de dados (coleções de entidades estruturais) são adotados para os organizar. Uma instância de um banco de dados relacional é intrinsicamente diferente de um arquivo XML ou da coleção de objetos em um repositório NoSQL.
+
+As divergências não são somente técnicas mas também representacionais. Assim, para gerenciar com um grande volume de dados heterogêneos, é necessário lidar com técnicas de integração de dados sob várias perspectivas pois ela envolve soluções tanto para muitas questões técnicas, tais como a combinação de protocolos, gerenciamento de fluxo de dados (_stream_), escolha de interfaces técnicas (_drivers_) quanto para a adequação conceitual e formal dos modelos de dados envolvidos.
+
+Do ponto de vista teórico, uma opção é utilizar o gerenciamento de modelos (_Model Management_) como framework para formalizar problemas de tradução. Um esquema, instância de um determinado modelo será traduzido para outra instância do esquema de um modelo de destino. De acordo com Bernstein [1], _model management_ é um framework teórico que define uma álgebra sobre modelos de dados. Neste contexto, este trabalho identificou a necessidade de uma solução independente de modelo para tradução de esquemas e dados e para problemas de _model management_ e propõe uma plataforma baseada em uma abordagem orientada a metadados que pretende ser mais abrangente do que master data management ou integração de dados empresariais.
+
+1. P. A. Bernstein. [Applying model management to classical meta dataproblems](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.12.2729){:target="_blank"}. In CIDR Conference, pages 209–220, 2003.

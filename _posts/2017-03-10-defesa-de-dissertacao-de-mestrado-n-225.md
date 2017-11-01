@@ -2,6 +2,7 @@
 layout: post
 title: "Defesa de Tese de Doutorado Nº  225"
 categories: Defesa
+tag: doutorado
 ---
 
 ## Pós-Graduação em Ciência da Computação – UFPE

@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Algoritmos de detecção de resistência a drogas do HIV e porquê devemos otimizá-los"
-categories: Doutorado
+categories: Pesquisa
+tag: doutorado
 ---
 
 A manipulação de dados biomoleculares pode apresentar características tratadas em computação como problemas de Big Data. Estes, são comumente armazenados em grandes bases de dados estruturadas ou não, apresentam certo grau de complexidade e as técnicas tradicionais de gerenciamento e processamento desses dados podem não ser muito úteis. Sobretudo para os casos em que existem inconsistências e a possibilidade de combinações imprevisíveis.

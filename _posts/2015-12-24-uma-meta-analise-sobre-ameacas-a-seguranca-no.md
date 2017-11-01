@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Uma Meta-Análise sobre Ameaças à Segurança no Ecossistema Web"
-categories: Mestrado
+categories: Pesquisa
+tag: mestrado
 ---
 
 Não há dúvidas que nos dias atuais a Web se consagra como um dos mecanismos computacionais mais preciosos para a humanidade. Seus usuários, através de um computador pessoal, smartphone ou smart tv, que uma vez munido de um navegador Web, é capaz de consumir serviços como e-mail, e-commerce, redes sociais e transações online, seja para fins de lazer ou negócios, beneficiando pessoas ou organizações, caracterizando assim o ecossistema Web.
