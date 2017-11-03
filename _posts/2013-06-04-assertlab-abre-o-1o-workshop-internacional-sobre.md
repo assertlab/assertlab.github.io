@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ASSERT at 11th International Conference on Privacy, Security and Trust (PST'2013)"
+title: "AssertLab abre o 1º Workshop Internacional sobre Social Machines"
 categories: Artigos
 tag: conferencia
 ---
