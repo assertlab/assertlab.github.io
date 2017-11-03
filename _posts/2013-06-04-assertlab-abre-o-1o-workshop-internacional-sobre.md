@@ -5,7 +5,7 @@ categories: Artigos
 tag: conferencia
 ---
 
-O assertLab marcou presença no [1º workshop Internacional sobre Social Machines](http://sociam.org/www2013/)(SOCM2013), realizado no dia 13/05 no Rio de Janeiro, durante a conferência [WWW 2013](http://www2013.org/). O SOCM2013 teve como principal objetivo caracterizar sistemas na Web como “Máquinas Sociais”, entidades que unem processos computacionais e sociais em software.
+O assertLab marcou presença no [1º workshop Internacional sobre Social Machines (SOCM2013)](http://sociam.org/www2013/), realizado no dia 13/05 no Rio de Janeiro, durante a conferência [WWW 2013](http://www2013.org/). O SOCM2013 teve como principal objetivo caracterizar sistemas na Web como “Máquinas Sociais”, entidades que unem processos computacionais e sociais em software.
 
 ![](https://github.com/assertlab/assertlab.github.io/blob/master/_posts/2013-06-04-assertlab-abre-o-1o-workshop-internacional-sobre/foto1.jpg?raw=true)
 
@@ -20,7 +20,7 @@ O artigo intitulado&nbsp;[Social Machines: A Unified Paradigm to Describe Social
 
 Nossa apresentação:
 
-<iframe src="http://www.slideshare.net/slideshow/embed_code/21117766" height="421" frameborder="0"> </iframe>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/z4C113esL8Eonm" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/vaab/socm-www2013-vanilsonburegio" title="Socm_www2013: Social Machines: A Unified Paradigm to describe Web-Oriented Systems" target="_blank">Socm_www2013: Social Machines: A Unified Paradigm to describe Web-Oriented Systems</a> </strong> from <strong><a href="https://www.slideshare.net/vaab" target="_blank">Vanilson Buregio</a></strong> </div>
 
 ** [Socm_www2013: Social Machines: A Unified Paradigm to describe Web-Oriented Systems](http://www.slideshare.net/vaab/socm-www2013-vanilsonburegio "Socm_www2013: Social Machines: A Unified Paradigm to describe Web-Oriented Systems") **
 
