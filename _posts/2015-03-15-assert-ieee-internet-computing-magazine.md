@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ASSERT at IEEE Internet Computing Magazine"
+title: "ASSERT @ IEEE Internet Computing Magazine"
 categories: Artigos
 tag: periodico
 ---
