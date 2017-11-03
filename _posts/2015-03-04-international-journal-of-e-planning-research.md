@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "International Journal of E-Planning Research (IJEPR) notification"
+title: "ASSERT @ International Journal of E-Planning Research (IJEPR) notification"
 categories: Artigos
 tag: periodico
 ---
 
-A paper from ASSERT Members has been accepted for publication in the [International Journal of E-Planning Research (IJEPR)](https://www.igi-global.com/journal/international-journal-planning-research-ijepr/44994). The paper is entitled "**_Is Brazilian Open Government Data Actually Open Data? An Analysis of the Current Scenario_**", by Kellyton dos Santos Brito, Marcos Antônio da Silva Costa, Vinicius Cardoso Garcia and Silvio Romero de Lemos Meira.
+A paper from ASSERT Members has been accepted for publication in the [International Journal of E-Planning Research (IJEPR)](https://www.igi-global.com/journal/international-journal-planning-research-ijepr/44994){:target="_blank"}. The paper is entitled "**Is Brazilian Open Government Data Actually Open Data? An Analysis of the Current Scenario**", by Kellyton dos Santos Brito, Marcos Antônio da Silva Costa, Vinicius Cardoso Garcia and Silvio Romero de Lemos Meira.
 
 A brief summary of the paper is following:
 
