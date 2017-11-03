@@ -5,7 +5,7 @@ categories: Artigos
 tag: conferencia
 ---
 
-É com prazer que informo que o artigo entitulado “_**Towards Government as a Social Machine**_”, de autoria de Vanilson Burégio, Kellyton Brito, Nelson Rosa, Misael Neto, Vinicius Garcia e Silvio Meira, foi aprovado para publicação no [3rd International Workshop on the Theory and Practice of Social Machines](http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=42299){:target="_blank"}, workshop que acontece em conjunto com o [24th International World Wide Web (WWW) Conference](http://www.www2015.it/){:target="_blank"}. O evento acontecerá entre os dias 18 e 22 de Maio deste ano.
+É com prazer que informo que o artigo entitulado **Towards Government as a Social Machine**, de autoria de Vanilson Burégio, Kellyton Brito, Nelson Rosa, Misael Neto, Vinicius Garcia e Silvio Meira, foi aprovado para publicação no [3rd International Workshop on the Theory and Practice of Social Machines](http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=42299), workshop que acontece em conjunto com o [24th International World Wide Web (WWW) Conference](http://www.www2015.it/). O evento acontecerá entre os dias 18 e 22 de Maio deste ano.
 
 Parabéns a todos os envolvidos!
 
