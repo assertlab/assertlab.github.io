@@ -5,7 +5,7 @@ categories: Artigos
 tag: premio
 ---
 
-![image](https://github.com/assertlab/assertlab.github.io/blob/master/_posts/2013-06-17-assert-participa-e-ganha-premio-no-sbsi-2013/figura1.jpg?raw=true)
+![image](https://github.com/assertlab/assertlab.github.io/blob/master/_posts/2013-06-17-assert-participa-e-ganha-premio-no-sbsi-2013/figura1.png?raw=true)
 
 Entre os dias 22 a 24 de Maio, o membro do grupo ASSERT e estudante de doutorado Ricardo Afonso acompanhado pelo professor, e também membro do ASSERT, Alexandre Álvaro (UFSCar) participaram do [IX Simpósio Brasileiro de Sistemas de Informação (SBSI 2013)](http://sbsi2013.dce.ufpb.br/) na cidade de João Pessoa, na Paraíba. O evento foi organizado pela UFPB e promovido pela SBC.
 
