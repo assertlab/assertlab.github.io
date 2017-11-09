@@ -1,0 +1,29 @@
+---
+layout: post
+title: "ASSERT no 31º Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos (SBRC'2013)"
+categories: Artigos
+tag: conferencia
+---
+
+O ASSERT teve 4 trabalhos publicados e apresentados no 31º Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos (SBRC'2013)!
+
+O primeiro trabalho, entitulado "**USTO.RE: A Private Cloud Storage System**", de autoria de Anderson Fonseca e Silva, Frederico Araújo Durão, Rodrigo Elia Assad e Vinicius Cardoso Garcia e foi publicado no&nbsp;[XI Workshop de Computação em Clouds e Aplicações](http://sbrc2013.unb.br/?page_id=1657) (WCGA).
+
+Resumo do artigo:&nbsp;_Cloud computing is a computing model where hardware, platforms and software are seen as services; viz. Infrastructure as a Service, Platform as a Service, and Software as a Service, respectively. Data as a Service (DaaS) is based on the concept that the product, data in this case, can be provided on demand to the user, regardless of geographic or organizational separation between provider and consumer. DaaS applications are for the most part based on excessive data replication in order to guarantee data availability, which means excessive costs in hardware investments. This white paper presents the specifi- cation, implementation and evaluation of a system called USTO.RE which aims to be an effective and low-cost alternative for storing data, thereby mitigating the problem of excessive data replication and thus allows itself to be considered a reliable platform from the perspective of data availability. Evaluation scenarios and the results achieved in our experiments to evaluate the system as well as possible lines for future development will be presented._
+
+O segundo artigo, entitulado "**aCCounts - Um Serviço de Tarifação de Recursos para Computação em Nuvem**", de autoria de&nbsp;Nayane Viana, Fernando Trinta, Ricardo Viana, Rossana Andrade Vinicius Garcia, Rodrigo Assad&nbsp;e foi publicado no&nbsp;[XI Workshop de Computação em Clouds e Aplicações](http://sbrc2013.unb.br/?page_id=1657)&nbsp;(WCGA).
+
+Resumo do artigo:&nbsp;_A computação em nuvem apresenta com uma das suas características-chave um modelo de tarifação onde o cliente paga apenas pelo que foi efetivamente consumido. Há muitas questões em relação à tarifação de serviços em nuvem que ainda não estão bem definidas, como as políticas de definição de recursos tarifados e sua respectiva tarifação. Esse trabalho foca em desenvolver um serviço de tarifação para Infraestruturas em nuvem, o aCCounts (a Cloud aCCOUNTing Service) e uma DSL (do inglês Domain Specifc Language) chamada aCCounts-DSL, para definir políticas flexíveis de tarifação em nuvem. O aCCounts utiliza essa DSL para realizar a tarifação dos serviços de nuvem, através da medição da utilização dos recursos nas máquinas virtuais das nuvens. Como experimentação preliminar da proposta, um protótipo de sua arquitetura é apresentado._
+
+_
+_O terceiro artigo, entitulado "**Uma Avaliação do MapReduce para Inspeção Distribuída de Tráfego de Aplicações**", de autoria de&nbsp;Thiago P. B. Vieira, Paulo F. A. Soares, Stenio F. L. Fernandes, Vinícius C. Garcia e foi publicado no&nbsp;[XI Workshop de Computação em Clouds e Aplicações](http://sbrc2013.unb.br/?page_id=1657)&nbsp;(WCGA).
+
+Resumo do artigo:&nbsp;_Diagnosticar sistemas distribuídos é uma tarefa complexa, a análise de tráfego de rede pode ser utilizada para avaliar estes sistemas, mas são necessários mecanismos capazes de avaliar uma crescente quantidade de tráfego de rede. MapReduce pode ser usado neste sentido, embora os traces de rede apresentem características diferentes do tipos de dados geralmente processados por MapReduce. Devido às lacunas existentes quanto a avaliação do MapReduce para análise de tráfego de rede, este artigo avalia o desempenho do MapReduce para análise em nível de pacotes e inspeção profunda de pacotes (DPI), caracterizando sua escalabilidade, ganhos em tempo de execução e o comportamento de suas fases. Os experimentos executados evidenciam as fases predomimantes neste tipo de processamento e mostram o impacto causado pelo tamanho do cluster, do bloco e da entrada de dado no tempo de conclusão e escalabilidade._
+
+Estes trabalhos estão relacionados às pesquisas desenvolvidas pelos membros do grupo em seus mestrados, doutorados e nos projetos de P&amp;D&amp;I desenvolvidos pelo grupo com suas parcerias.
+
+E finalmente, o quarto artigo entitulado "**Just-in-Time Clouds Uma abordagem para Federação de Clouds Privadas**", de autoria de&nbsp;Edigley Fraga, Jonathan Brilhante, Rostand Costa, Francisco Brasileiro, Pedro Bignatto, Diego Desani, Hermes Senger, Airton Pereira, Vinícius Garcia, Fernando Trinta, Rodrigo Elia Assad, Ana Cristina Oliveira, Henryson Chagas, Aleciano Ferreira, Marco Spohn, Reinaldo Gomes, Philippe Navaux, Eduardo Roloff, Otávio Carvalho, Marcos Barreto, Raimundo Macêdo, Alírio Sá e foi publicado no&nbsp;[Salão de Ferramentas](http://sbrc2013.unb.br/?page_id=1289) do SBRC.
+
+Resumo do artigo:&nbsp;_Este artigo descreve a solução Just-in-Time (JiT) Cloud para a federação de clouds privadas. Uma JiT Cloud consiste na agregação de diversos JiT Data Centres (JiT DCs) geograficamente dispersos e provê infraestrutura computacional como serviço (IaaS) por meio da alocação sob demanda de máquinas virtuais. A solução é composta por três módulos de software que permitem a gerência da infraestrutura por parte de um administrador e de máquinas virtuais por parte de usuários clientes. Atualmente existe uma JiT Cloud em produção composta por seis JiT DCs distribuídos em três estados brasileiros (Paraíba, São Paulo e Rio G. do Sul)._
+
+O&nbsp;31º Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos (SBRC'2013) aconteceu no período de 6 a 10 de Maio em Brasília, DF, Brasil.
