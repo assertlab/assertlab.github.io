@@ -46,4 +46,4 @@ No próximo post tratarei do projeto propriamente dito do curso, ou seja, o prog
 
 Espero não demorar tanto para o próximo post, mesmo porque o semestre atual está no fim e a disciplina tem que ficar pronta logo!
 
-_Artigo originalmente publicado por [Vinicius Cardoso Garcia](http://viniciusgarcia.me/education/ensinando-engenharia-de-software-na-pratica-parte-ii/) _
+_Artigo originalmente publicado por [Vinicius Cardoso Garcia](http://viniciusgarcia.me/education/ensinando-engenharia-de-software-na-pratica-parte-ii/)_

@@ -13,4 +13,4 @@ I am designing a survey to characterize the state of reuse measurement based on 
 
 Regarding to reuse are, I recommend for example two papers in this direction [[P1](http://portal.acm.org/citation.cfm?doid=505532.505535), [P2](http://portal.acm.org/citation.cfm?doid=566493.566495)]. The [second one](http://worldofreuse.blogspot.com/2007/09/rise-publishes-survey-about-software.html) presents the state of software reuse in Brazil conducted by RiSE.
 
-_Artigo originalmente publicado por [Vinicius Cardoso Garcia](http://viniciusgarcia.me/education/a-biblioteca-do-desenvolvedor-de-software-dos-dias-de-hoje/) _
+*Artigo originalmente publicado por [Vinicius Cardoso Garcia](http://viniciusgarcia.me/education/a-biblioteca-do-desenvolvedor-de-software-dos-dias-de-hoje/)*

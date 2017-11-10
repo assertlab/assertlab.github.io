@@ -34,15 +34,14 @@ Eu dividiria a disciplina de desenvolvimento de software em verticais, que seria
 - Técnicas Fundamentais de Criação de Software (_Core Software Creation Techniques_)
     - TDD: [Growing Object-Oriented Software, Guided By Tests](http://amzn.to/1mwt5hE) ou [TDD: Desenvolvimento Guiado por Testes](https://www.goodreads.com/book/show/29742940-tdd-desenvolvimento-guiado-por-testes)
     - Refactoring: [Refactoring](http://amzn.to/1e9iAMM) ou [Refatoração: Aperfeiçoando o Projeto de Código Existente](https://indicalivros.com/pdf/refatoracao-aperfeicoando-o-projeto-de-codigo-existente-martin-fowler)
-    - BDD: [The Cucumber Book: Behaviour-Driven Development for Testers and Developers*  
+    - BDD: [The Cucumber Book: Behaviour-Driven Development for Testers and Developers *  
 ](http://amzn.com/1934356808)
 
 - Conceitos de Projeto de Software (_Software Design Concepts_)
     - Code Design: [Clean Code](http://amzn.to/1mwsAUU) ou [O Codificador Limpo](http://www.livrariacultura.com.br/scripts/resenha/resenha.asp?nitem=29802936)
     - Structural Design: [Design Patterns](http://amzn.com/0201633612) ou [Padrões de Projeto](http://www.livrariasaraiva.com.br/produto/436822?PAC_ID=25371)
     - Analysis Design: [Applying UML and Patterns](http://amzn.com/0131489062) ou [Utilizando UML e Padrões](http://www.buscape.com.br/utilizando-uml-e-padroes-craig-larman-8560031529)
-    - Component Design: [Object Design: Roles, Responsibilities, and Collaborations  
-](http://amzn.to/1mwsH2P)
+    - Component Design: [Object Design: Roles, Responsibilities, and Collaborations](http://amzn.to/1mwsH2P)
     - Service Design: [Service Design Patterns](http://amzn.com/032154420X)
     - Domain Design: [Domain Driven Design](http://amzn.to/1bEZApL) ou [Domain Driven Design (pt-br)](http://www.altabooks.com.br/domain-drive-design-atacando-as-complexidades-no-coracao-do-software.html)
     - System Design: [Software Systems Architecture](http://amzn.to/1f0S8pS)  ou [Software Architecture](http://www.softwarearchitecturebook.com/)
@@ -56,7 +55,7 @@ Eu dividiria a disciplina de desenvolvimento de software em verticais, que seria
     - [Engineering Long-Lasting Software](https://www.amazon.com/Engineering-Long-Lasting-Software-Approach-Computing/dp/0984881212/ref=sr_1_1?ie=UTF8&qid=1505915363&sr=8-1&keywords=Engineering+Long-Lasting+Software)
     - [Software Reuse](http://amzn.com/0201924765)
     - [Software Engineering](http://amzn.com/0137035152) (clássico) ou [Engenharia de Software](https://www.saraiva.com.br/engenharia-de-software-9-ed-2011-3648635.html)
-    - [Software Engineering: Theory and Practice](http://amzn.com/0136061699) – ou [Engenharia de Software – Teoria e Prática ](http://wps.prenhall.com/br_pfleeger_engsoftware_2/)
+    - [Software Engineering: Theory and Practice](http://amzn.com/0136061699) – ou [Engenharia de Software – Teoria e Prática](http://wps.prenhall.com/br_pfleeger_engsoftware_2/)
 
 - Conceitos de Entrega de Software (_Software Delivery Concepts_)
     - Lean Systems: [Leading Lean Software Development](http://amzn.to/1jiPwHc) ou [Implementando o Desenvolvimento Lean de Software](http://www.grupoa.com.br/livros/engenharia-de-software-e-metodos-ageis/implementando-o-desenvolvimento-lean-de-software/9788577807567)
@@ -71,4 +70,4 @@ Os livros com * são de alguma tecnologia específica, mas que as técnicas pode
 
 Alguma sugestão para complementar a lista?
 
-_Artigo originalmente publicado por [Vinicius Cardoso Garcia](http://viniciusgarcia.me/education/a-biblioteca-do-desenvolvedor-de-software-dos-dias-de-hoje/) _
+_Artigo originalmente publicado por [Vinicius Cardoso Garcia](http://viniciusgarcia.me/education/a-biblioteca-do-desenvolvedor-de-software-dos-dias-de-hoje/)_

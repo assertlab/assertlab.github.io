@@ -13,4 +13,4 @@ Foi um ótimo papo!
 
 <iframe class="scribd_iframe_embed" src="https://www.scribd.com/embeds/239245308/content?start_page=1&view_mode=scroll&access_key=key-7SOaKTp2OUC6WQLkOsD5&show_recommendations=true" data-auto-height="false" data-aspect-ratio="1.3323485967503692" scrolling="no" id="doc_47228" width="400" height="600" frameborder="0"></iframe>
 
-_Artigo originalmente publicado por [Vinicius Cardoso Garcia](http://viniciusgarcia.me/education/o-caminho-da-inovacao-da-universidade-para-a-sociedade-e-de-volta-para-ela-2014/) _
+_Artigo originalmente publicado por [Vinicius Cardoso Garcia](http://viniciusgarcia.me/education/o-caminho-da-inovacao-da-universidade-para-a-sociedade-e-de-volta-para-ela-2014/)_

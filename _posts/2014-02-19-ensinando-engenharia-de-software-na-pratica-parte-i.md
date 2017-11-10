@@ -48,4 +48,4 @@ A intenção principal é trabalhar a lacuna existente entre o que a **academia 
 
 Nos próximos posts vou apresentando este novo projeto que espero servir de estímulo para mais reengenharia em disciplinas de Engenharia de Software em outras instituições.
 
-_Artigo originalmente publicado por [Vinicius Cardoso Garcia](http://viniciusgarcia.me/education/ensinando-engenharia-de-software-na-pratica-parte-i/) _
+*Artigo originalmente publicado por [Vinicius Cardoso Garcia](http://viniciusgarcia.me/education/ensinando-engenharia-de-software-na-pratica-parte-i/)*
