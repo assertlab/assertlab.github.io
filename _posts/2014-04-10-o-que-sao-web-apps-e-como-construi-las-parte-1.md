@@ -13,15 +13,15 @@ Web App é um termo genérico que representa uma grande variedade de sistemas. _
 
 Single-page applications são sites, sistemas, aplicações que possuem apenas uma página. Esse tipo de aplicação utiliza AJAX (_asynchronous javascript and xml_) para alterar , dinamicamente, o conteúdode uma página. _That’s old news_... A dificuldade está em construir TODA uma aplicação utilizando essa mecânica de modo que, uma vez carregada a página inicial, toda a navegação subsequente (mudança de páginas, carregamento de conteúdo, absolutamente) utilize um processo de carregamento assíncrono das páginas. Difícil de entender? Vou explicar melhor… imagine que um sistema de cadastro de estoque qualquer possua 5 páginas: página principal, edição de perfil de usuário, cadastro de produtos, listagem de todos os produtos e detalhamento do produto. Não é difícil imaginar que cada uma dessas páginas é bem distinta das outras. Uma vez que as páginas são diferentes umas das outras, qual é a melhor forma de arquitetar esse sistema de estoque utilizando o paradigma de Single-page layout? Uma maneira é fazer com que cada página seja injetada (via ajax) dentro de um elemento DIV. Por exemplo:
 
-![](2014-04-10-o-que-sao-web-apps-e-como-construi-las-parte-1/codigo1.png)
+![]({{ BASE_PATH }}/images/2014-04-10-o-que-sao-web-apps-e-como-construi-las-parte-1/codigo1.png)
 
 O código acima contém uma div com id=”content-wrapper”. Nosso objetivo é fazer com que todas as páginas sejam carregadas, de maneira dinâmica (via ajax), dentro dessa div. Para isso, precisamos modificar o comportamento dos links que levam a outras páginas. Por exemplo:
 
-![](2014-04-10-o-que-sao-web-apps-e-como-construi-las-parte-1/codigo2.png)
+![]({{ BASE_PATH }}/images/2014-04-10-o-que-sao-web-apps-e-como-construi-las-parte-1/codigo2.png)
 
 O que o código acima faz é modificar o comportamento dos links cuja classe é ajaxlink. Estou utilizando a biblioteca JQuery para associar uma função anônima ao evento de clique de botão: `$(‘body’).on(‘click’, ‘a.ajaxlink’, function(e)`. Quando um link como este...
 
-![](2014-04-10-o-que-sao-web-apps-e-como-construi-las-parte-1/codigo3.png)
+![]({{ BASE_PATH }}/images/2014-04-10-o-que-sao-web-apps-e-como-construi-las-parte-1/codigo3.png)
 
 ...for clicado, o função anônima acima será executado. A primeira instrução é armazenar a url contida no link em uma variável chamada url. Em seguida, faz-se uma requisição ajax para resgatar a página em questão usando o método `$.ajax()`. Um dos parâmetros passados para o método $.ajax() é justamente a url do link clicado. Os outros parâmetros são o tipo da requisição, neste caso GET e também a função a ser executada caso a requisição ao servidor seja bem sucedida. Quando o servidor responder a requisição, o método success será executado e a página será injetada dentro da div. Por fim a função anônima retorna o valor false indicando que o comportamento padrão de clique no link não seja disparado (o browser não fará o processo natural de navegação, isso fica a cargo de nossa função anônima). Existem alguns benefícios em adotar essa abordagem:
 

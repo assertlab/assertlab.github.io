@@ -21,13 +21,13 @@ Para a concepção da proposta deste trabalho, foram realizadas duas revisões d
 
 A partir destas revisões, um conjunto de requisitos que uma arquitetura para Cidades Inteligentes deve atender. A Tabela 1 apresenta estes requisitos.
 
-![image](https://github.com/assertlab/assertlab.github.io/blob/master/_posts/2014-01-02-uma-arquitetura-para-smart-cities-baseada-na/tabela1.png?raw=true)
+![image]({{ BASE_PATH }}/images/2014-01-02-uma-arquitetura-para-smart-cities-baseada-na/tabela1.png)
 
 Ao analisar esta tabela, percebe-se que a Revisão Exploratória foi mais eficaz. Porém, devido à falta de um processo formal que possa ser repetido, este fato não deve ser considerado que as Revisões Exploratórias são mais eficientes que as Revisões Sistemáticas.
 
 A partir destes requisitos, a proposta deste trabalho foi definida, exemplificada na Figura 1.
 
-![image](https://github.com/assertlab/assertlab.github.io/blob/master/_posts/2014-01-02-uma-arquitetura-para-smart-cities-baseada-na/figura1.png?raw=true)
+![image]({{ BASE_PATH }}/images/2014-01-02-uma-arquitetura-para-smart-cities-baseada-na/figura1.png)
 
 Após o estabelecimento da proposta, foi necessário avaliá-la. Para tal, vários métodos de avaliação disponíveis na arquitetura foram estudados, porém nenhum deles atendia o contexto deste trabalho. Logo, foi realizada a adaptação de dois métodos amplamente utilizados na liteturatura (SAAM e ATAM) para ser executado remotamente.
 
@@ -35,7 +35,7 @@ Inicialmente uma equipe totalmente multidisciplinar de 16 pessoas foi construíd
 
 A Figura 2&nbsp;apresenta o resultado da adequação de cada cenário, de acordo com a visão da equpe de avaliação. Nesta figura, os cenários mais prioritários estão organizados da esquerda para direita (C1 até C14).
 
-![image](https://github.com/assertlab/assertlab.github.io/blob/master/_posts/2014-01-02-uma-arquitetura-para-smart-cities-baseada-na/figura2.png?raw=true)
+![image]({{ BASE_PATH }}/images/2014-01-02-uma-arquitetura-para-smart-cities-baseada-na/figura2.png)
 
 Conforme se pode notar, na opinião dos participantes, a arquitetura atendente de forma EXCELENTE três cenários. O primeiro cenário (C2) é relacionado aos mecanismos de distribuição de dados implementados no MGDD , principalmente a utilização da _DHT_ de dados. Já o segundo cenário (C4) foi obtido a partir da implementação do padrão _publisher-subscriber_ também no MGDD. Por fim, o último cenário avaliado positivamente é oriundo do modelo de abstração e da flexibilidade implementada no MAC.
 
@@ -47,7 +47,7 @@ De uma forma geral, estes resultados mostram que a arquitetura pode e deve ser u
 
 A Tabela 2 resume os próximos passos deste trabalho.
 
-![image](https://github.com/assertlab/assertlab.github.io/blob/master/_posts/2014-01-02-uma-arquitetura-para-smart-cities-baseada-na/tabela2.png?raw=true)
+![image]({{ BASE_PATH }}/images/2014-01-02-uma-arquitetura-para-smart-cities-baseada-na/tabela2.png)
 
 **Referências**:
 Nations, U. (2007). World population prospects: The 2006 revision and world urbanization prospects. Technical report, United Nations, New York.

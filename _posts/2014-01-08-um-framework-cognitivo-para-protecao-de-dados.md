@@ -47,7 +47,7 @@ Foram estudados 28 trabalhos, dos quais foi extraído um conjunto de requisitos.
 
 **O framework de privacidade**
 
-![image](https://github.com/assertlab/assertlab.github.io/blob/master/_posts/2014-01-08-um-framework-cognitivo-para-protecao-de-dados/figura1.png?raw=true)
+![image]({{ BASE_PATH }}/images/2014-01-08-um-framework-cognitivo-para-protecao-de-dados/figura1.png)
 
 **Services Provider Manager: **Responsável por gerenciar as informações de identificação dos provedores de serviço e os serviços que eles fornecem.
 

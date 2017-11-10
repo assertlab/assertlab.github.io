@@ -9,11 +9,11 @@ This is the research conducted by Thiago Vieira, which studies techniques for pr
 
 Distributed systems has been adopted for building modern Internet services and cloud computing infrastructure, in order to obtain services with high performance, scalability and reliability. Cloud computing SLAs require low time to identify, diagnose and solve problems in a cloud computing production infrastructure, in order to avoid problem impacts into the quality of service provided for its clients.
 
-![image](https://github.com/assertlab/assertlab.github.io/_posts/2013-03-03-profiling-distributed-applications-through-network/figura1.png)&nbsp;
+![image]({{ BASE_PATH }}/images/2013-03-03-profiling-distributed-applications-through-network/figura1.png)
 
 The detection of error causes, diagnose and reproduction of errors are challenges that motivate efforts to the development of less intrusive mechanisms for monitoring and debugging distributed applications at runtime.
 
-![image](https://github.com/assertlab/assertlab.github.io/_posts/2013-03-03-profiling-distributed-applications-through-network/figura2.png)
+![image]({{ BASE_PATH }}/images/2013-03-03-profiling-distributed-applications-through-network/figura2.png)
 
 Network traffic analysis is one option to the distributed systems measurement, although there are limitations on capacity to process large amounts of network traffic in short time, and on scalability to process network traffic where there is variation of resource demand.&nbsp;
 
@@ -21,7 +21,7 @@ The goal of this research is to evaluate the processing capacity problem for pro
 
 We proposed a new approach based on MapReduce, for deep inspection of distributed application traffic, in order to evaluate the behavior of distributed systems at runtime, using commodity hardware. In this research we evaluated the effectiveness of MapReduce for a deep packet inspection algorithm, its processing capacity, completion time speedup, processing capacity scalability, and the behavior followed by MapReduce phases, when applied to deep packet inspection for extracting indicators of distributed applications.
 
-![image](https://github.com/assertlab/assertlab.github.io/_posts/2013-03-03-profiling-distributed-applications-through-network/figura3.png)
+![image]({{ BASE_PATH }}/images/2013-03-03-profiling-distributed-applications-through-network/figura3.png)
 
 With our proposed approach, it is possible to measure the network traffic behavior of distributed applications with intensive network traffic generation, through the offline evaluation of information from the production environment of a distributed system, making it possible to use the information from the evaluated indicators, to diagnose problems and analyse performance of distributed systems.
 

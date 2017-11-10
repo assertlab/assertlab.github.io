@@ -5,7 +5,7 @@ categories: Artigos
 tag: conferencia
 ---
 
-![image](https://github.com/assertlab/assertlab.github.io/blob/master/_posts/2013-06-03-assertlab-na-www2013/foto1.jpg?raw=true)
+![image]({{ BASE_PATH }}/images/2013-06-03-assertlab-na-www2013/foto1.jpg?raw=true)
 
 Durante o período de 13 a 17 de Maio de 2013, dois pesquisadores do AssertLab, [Leandro M. Nascimento](http://bit.ly/19DICGd) e [Vanilson A. A. Buregio](http://bit.ly/1aYlobC), estiveram presentes numa das maiores e mais relevantes conferências sobre o tema “Internet” de uma forma geral: a WWW (World Wide Web) Conference, edição 2013, que ocorreu na cidade do Rio de Janeiro, Brasil. 
 

@@ -15,7 +15,7 @@ Uma molécula de RNA de estrutura simples não estará estável enquanto algumas
 
 O emparelhamento dessas bases forma a estrutura secundária do RNA. Quando uma molécula de RNA possui dois longos trechos complementares, ela “dobra“ para formar os pares de bases resultando em uma haste de ligações estáveis. Estas hastes podem ser imperfeitas e conter regiões arredondadas de bases não pareadas (ver figura abaixo).
 
-![](https://github.com/assertlab/assertlab.github.io/blob/master/_posts/2015-07-21-trabalhando-com-rna/figura1.png?raw=true)
+![]({{ BASE_PATH }}/images/2015-07-21-trabalhando-com-rna/figura1.png)
 
 Existe uma tendência natural para a molécula de RNA buscar ter a estrutura secundária mais estável a partir do melhor conjunto de ligações de bases possível de ser formado. O conceito _lowest-energy model_ (modelo de menor quantidade de energia) preconiza que as estruturas de RNA estáveis sempre possuem um valor energético negativo em Kcal/mol. Portanto, para “desdobrar” uma sequencia de RNA desfazendo as ligações entre as bases nitrogenadas é necessário prover energia (calor) a essas moléculas.
 A estabilidade de um RNA dobrado depende não só da quantidade de ligações GC (GC content), mas da quantidade de ligações de uma maneira geral e do tamanho das regiões arredondadas, também chamadas de regiões de loop. Algoritmos sofisticados como o mfold podem levar essas especificidades em conta para predizer qual seria uma dobra de estabilidade ótima dada a estrutura primária do RNA.

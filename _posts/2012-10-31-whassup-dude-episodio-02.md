@@ -5,7 +5,7 @@ categories: Pesquisa
 tag: seminario
 ---
 
-Continuando as reuniões de acompanhamento (veja detalhes da anterior [aqui](http://assertlab.com/post/33652533631/whassup-dude-episodio-01)), nessa sexta dia **09 de Novembro de 2012** teremos mais duas apresentações. A intenção é&nbsp;mostrar os avanços obtidos ao longo do semestre, os impedimentos e problemas, riscos e a maneira de mitigá-los e, claro, os próximos passos. Eventuais resultados alcançados também são bem vindos!
+Continuando as reuniões de acompanhamento (veja detalhes da anterior [aqui](https://assertlab.github.io/pesquisa/2012/10/31/whassup-dude-episodio-02.html)), nessa sexta dia **09 de Novembro de 2012** teremos mais duas apresentações. A intenção é&nbsp;mostrar os avanços obtidos ao longo do semestre, os impedimentos e problemas, riscos e a maneira de mitigá-los e, claro, os próximos passos. Eventuais resultados alcançados também são bem vindos!
 
 Ressalto que este tipo de encontro é uma ótima oportunidade para ver pontos em comum, ou melhor, de convergência de interesses e mais ainda, oportunidades de trabalhos em parceria! Por isso este é um seminário aberto ao público.
 

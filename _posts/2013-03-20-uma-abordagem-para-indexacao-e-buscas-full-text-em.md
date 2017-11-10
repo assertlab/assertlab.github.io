@@ -11,7 +11,7 @@ Essa grande quantidade de dados gerados pode ser armazenada em nuvem utilizando 
 
 Um sistema para armazenamento em nuvem pode ser desenvolvido em cima da arquitetura peer-to-peer (p2p), como mostrado na Figura 1, para tirar proveito desse modelo, por exemplo, para evitar gargalos de forma eficiente e pontos únicos de falha. Além disso, esses sistemas podem usar o espaço disponível nos _peers _para armazenar dados, devendo, para isso, levar em consideração atributos como replicação de dados, segurança, seleção de _peers_ com alta disponibilidade, etc.
 
-![image](https://github.com/assertlab/assertlab.github.io/_posts/2013-03-20-uma-abordagem-para-indexacao-e-buscas-full-text-em/figura1.png)
+![image]({{ BASE_PATH }}/images/2013-03-20-uma-abordagem-para-indexacao-e-buscas-full-text-em/figura1.png)
 
 Figura 1: Sistema rodando em nuvem sobre uma arquitetura P2P
 

@@ -33,5 +33,5 @@ github:
   owner_name: assertlab
   owner_url: https://github.com/assertlab
 
-gems:
+plugins:
   - jekyll-feed

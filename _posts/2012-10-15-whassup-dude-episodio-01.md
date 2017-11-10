@@ -5,8 +5,7 @@ categories: Pesquisa
 tag: seminario
 ---
 
-
-![](https://github.com/assertlab/assertlab.github.io/_posts/2012-10-15-whassup-dude-episodio-01/figura1.png)
+![]({{ BASE_PATH }}/images/2012-10-15-whassup-dude-episodio-01/figura1.png)
 
 Nesta sexta-feira, dia 19/10/2012 teremos de volta as apresentações dos trabalhos em andamento do grupo, mostrando os avanços obtidos ao longo do semestre, os impedimentos e problemas, riscos e maneira de mitigá-los e, claro, os próximos passos.
 

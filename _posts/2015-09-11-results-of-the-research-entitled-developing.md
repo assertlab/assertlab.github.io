@@ -13,6 +13,6 @@ While analyzing the data an important fact was noticed, many children when start
 
 All of the involved children demonstrated interest on the game, and completed at least the first level, which suggests that preschoolers are able to start developing programming skills.
 
-![](https://github.com/assertlab/assertlab.github.io/blob/master/_posts/2015-09-11-results-of-the-research-entitled-developing/figure1.png?raw=true)
+![]({{ BASE_PATH }}/images/2015-09-11-results-of-the-research-entitled-developing/figure1.png)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RFFH3-uLsso" frameborder="0" allowfullscreen></iframe>

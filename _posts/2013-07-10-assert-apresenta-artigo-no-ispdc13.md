@@ -20,11 +20,11 @@ O evento é bem multidisciplinar e abordou temas relacionados à computação di
 
 Francisco apresentou o framework Monext na trilha “Task Scheduling and Load Balancing”. Essa ferramenta visa realizar tarifação de IaaS em nuvens privadas ou públicas aplicando políticas próprias fazendo uso de uma linguagem específica de domínio. Para saber mais sobre o trabalho acesse a [página da ferramenta](http://cin.ufpe.br/~faps/monext/). Na ocasição a platéia se interessou mais pela DSL indagando sobre a sua extensibilidade.
 
-![image](https://github.com/assertlab/assertlab.github.io/blob/master/_posts/2013-07-10-assert-apresenta-artigo-no-ispdc13/foto1.jpg?raw=true)
+![image]({{ BASE_PATH }}/images/2013-07-10-assert-apresenta-artigo-no-ispdc13/foto1.jpg)
 
 Na trilha "Cloud and Mobile Computing" o professor pesquisador Dan Grigoras da universidade de Bucareste apresentou o estado da arte e futuras direções em Mobile Cloud (linha de pesquisa na qual Francisco visa seguir atualmente) e defendeu a ideia de que todas as técnicas de evolução de aplicações mobile que interagem com nuvens devem tentar ser direcionadas à melhoria da experiência do usuário, delimitando métricas que transpareçam a satisfação do mesmo. Esta apresentação foi de suma importância para Francisco, pois pôde discutir posteriormente com Grigoras possíveis facetas de pesquisa a serem exploradas. Neste ambiente, Francisco também conheceu de perto o trabalho em Mobile Cloud realizado por Alexandru Olteanu, estudante PhD em fase final de trabalho em que como pesquisador desenvolve estudos na subárea denominada offloading de aplicações e como professor aplica uma metodologia de ensino de programação através da construção de apps mobile. Na foto abaixo, um grupo de alunos de graduação que estavam participando de um escola de verão em mobile programming na semana da conferência.
 
-![image](https://github.com/assertlab/assertlab.github.io/blob/master/_posts/2013-07-10-assert-apresenta-artigo-no-ispdc13/foto2.jpg?raw=true)
+![image]({{ BASE_PATH }}/images/2013-07-10-assert-apresenta-artigo-no-ispdc13/foto2.jpg)
 
 Dentre as keynotes, duas chamaram mais a atenção por correlação ao trabalho de Francisco, a primeira ministrada por Iosif Legrand por incluir mecanismos de monitoramento de infraestrutura e a segunda de Thilo Kielmann por ter uma certa relação com o projeto [JiTCloud](http://jitclouds.lsd.ufcg.edu.br/site/index.php/en/) (no qual teve construção participativa do grupo ASSERT).
 

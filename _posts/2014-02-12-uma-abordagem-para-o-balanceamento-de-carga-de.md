@@ -16,7 +16,7 @@ Tendo em vista a necessidade de realizar um balanceamento distribuído, o balanc
 
 Quando um super peer se conecta a rede, o mesmo inicializa o Peer Discovery, que é o componente responsável pelo descobrimento dos servidores de busca na rede. Periodicamente, o Peer Discovery atualiza a lista de servidores de busca, adicionando novos e removendo os desconectados da rede, para ser utilizada pelo Load Balancer. Um peer, ao se conectar a rede JXTA, publica um advertisement informando qual é o seu tipo (cliente, servidor, servidor de busca, etc.). Se o peer recém conectado a rede for do tipo servidor de busca, o mesmo é descoberto e adicionado a lista de servidores de busca do Peer Discovery. A Figura 1 demonstra o fluxo da descoberta e atualização da lista de servidores de busca pelo Peer Discovery.
 
-![](2014-02-12-uma-abordagem-para-o-balanceamento-de-carga-de/figura1.png)
+![]({{ BASE_PATH }}/images/2014-02-12-uma-abordagem-para-o-balanceamento-de-carga-de/figura1.png)
 
 As próximas etapas do projeto são:
 

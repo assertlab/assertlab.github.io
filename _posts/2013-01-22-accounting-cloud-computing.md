@@ -7,7 +7,7 @@ tag: mestrado
 
 My name is Francisco Airton, I am a Masters graduate student and this post aims at giving an introductory view of my research, titled “**JiTCA: An Accounting Framework for Federated Clouds”**…
 
-![](https://github.com/assertlab/assertlab.github.io/_posts/2013-01-22-accounting-cloud-computing/figura1.png)
+![]({{ BASE_PATH }}/images/2013-01-22-accounting-cloud-computing/figura1.png)
 
 Cloud Computing has become an established paradigm for running services on external infrastructure, where virtually unlimited capacity can be dynamically allocated. This paradigm provides a new scenario for the deployment of applications and IT services. In such a model, as complete applications as infrastructure of machines are offered to users and charged only for the consumed resources. Thus, the Cloud resources are offered through service abstractions, which today are known three main categories: Software as a Service (SaaS), Platform as a Service (PaaS) and Infrastructure as a Service (IaaS).
 
@@ -21,7 +21,7 @@ It is important to highlight that regarding Cloud Computing the term broadly use
 
 So, even in the case of a single cloud provider this task of Accounting is hard and there is a context which it becomes even worse, known as the Federation of Cloud Computing or also called Federated Cloud. Federated Cloud happens when a cloud provider dynamically outsource resources to other providers in response to demand variation.
 
-![](https://github.com/assertlab/assertlab.github.io/_posts/2013-01-22-accounting-cloud-computing/figura2.png)
+![]({{ BASE_PATH }}/images/2013-01-22-accounting-cloud-computing/figura2.png)
 
 To better clarify Federated Cloud, imagine joining IaaS resources from different providers such as Amazon, GoGrid or Rackspace and you as a final user pay less money due to the possible intelligent scheduling, or even more simple, imagine Data Centers installed under several universities partnering with each other and offering such pool of resources for the students. That’s right, this is Federated Cloud.
 
@@ -30,7 +30,7 @@ Thus, there is a cluster of clouds, but their resources are heterogeneous, resul
 My work presents the **JiTCA**, an accounting framework which objective is charge _Infrastructure as a Service_ with focus on Federated Cloud. In order to gather information and consequently generate guidelines to substantiate decisions in building the framework, we applied a _Systematic Mapping Study_. In summary a _Systematic Mapping Study_ provides an overview of a research area, and identifies results available within it.
 
 &nbsp;
-![](https://github.com/assertlab/assertlab.github.io/_posts/2013-01-22-accounting-cloud-computing/figura3.png)
+![]({{ BASE_PATH }}/images/2013-01-22-accounting-cloud-computing/figura3.png)
 
 Among the main functionalities are: a _Domain Specific Language_ to specify charging policies (a kind of formula to calculate how much the customers are going to pay); _Service Level Agreement_ Support; and Pre/Post-Paid Models Support.
 

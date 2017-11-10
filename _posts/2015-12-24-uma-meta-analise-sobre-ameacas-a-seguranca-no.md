@@ -9,7 +9,7 @@ Não há dúvidas que nos dias atuais a Web se consagra como um dos mecanismos c
 
 Um ecossistema por definição padrão é tido como um conjunto que designa a observação do comportamento e interação entre diferentes indivíduos em um mesmo ambiente. A interação entre o conjunto de usuários, navegadores Web, redes sociais, dispositivos, aplicações e demais serviços na Web é o que definimos como o ecossistema Web, conforme a Figura 1.
 
-![](https://github.com/assertlab/assertlab.github.io/blob/master/_posts/2015-12-24-uma-meta-analise-sobre-ameacas-a-seguranca-no/figura1.png?raw=true)
+![]({{ BASE_PATH }}/images/2015-12-24-uma-meta-analise-sobre-ameacas-a-seguranca-no/figura1.png)
 
 Contudo, apesar dos benefícios, podemos afirmar que esse ecossistema é um ambiente hostil diante aos casos cada vez mais frequentes de ataques que resultam na violação dos dados sensíveis de seus usuários ou serviços [1]. Nos repositórios acadêmicos, há exatamente 21 anos, desde o início de 1994 até final de 2014, nosso estudo identificou artigos que abordam sobre essa problemática. O que podemos perceber é a notória necessidade de catalogar esses incidentes no intuito de inventariar os comportamentos relacionados, facilitando na identificação e prevenção de vulnerabilidades decorrentes. Um bom exemplo são organizações como MITRE e OWASP que mantêm periodicamente catálogos destas ameaças, auxiliando a manutenção e desenvolvimento de aplicações projetadas para o ecossistema Web [2] [3].
 

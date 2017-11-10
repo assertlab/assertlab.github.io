@@ -7,7 +7,7 @@ tag: conferencia
 
 O assertLab marcou presença no [1º workshop Internacional sobre Social Machines (SOCM2013)](http://sociam.org/www2013/), realizado no dia 13/05 no Rio de Janeiro, durante a conferência [WWW 2013](http://www2013.org/). O SOCM2013 teve como principal objetivo caracterizar sistemas na Web como “Máquinas Sociais”, entidades que unem processos computacionais e sociais em software.
 
-![](https://github.com/assertlab/assertlab.github.io/blob/master/_posts/2013-06-04-assertlab-abre-o-1o-workshop-internacional-sobre/foto1.jpg?raw=true)
+![]({{ BASE_PATH }}/images/2013-06-04-assertlab-abre-o-1o-workshop-internacional-sobre/foto1.jpg?raw=true)
 
 _Na foto: Nigel Shadbolt, Vanilson Buregio, Leandro Nascimento e Max Van Kleek_
 
