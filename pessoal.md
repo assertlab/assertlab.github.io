@@ -41,3 +41,46 @@ permalink: /pessoal.html
 * **Felipe Oliveira Gutierrez**, M.Sc., Ph.D. candidate at [Centro de Informática](http://www.cin.ufpe.br){:target="_blank"} (UFPE), [Lattes](http://lattes.cnpq.br/8633775775597854){:target="_blank"}
 * **Elyda Laisa Soares Xavier Freitas**, M.Sc., Ph.D. candidate at [Centro de Informática](http://www.cin.ufpe.br){:target="_blank"} (UFPE), [Lattes](http://lattes.cnpq.br/0804375840636282){:target="_blank"}
 * **Sandrine Ventura Martins**, M.Sc. candidate at [Centro de Informática](http://www.cin.ufpe.br){:target="_blank"} (UFPE), [Lattes](http://lattes.cnpq.br/3989518164012856){:target="_blank"}
+
+# Alumni
+
+* Wilson Alves da Silva
+* Willamys Gomes Fonseca Araujo
+* Giovani Felipe Jahn
+* Alessandro Borges Rodrigues
+* Plínio Antunes Garcia
+* Alfredo Pupak Pereira Virote
+* José Rafael Moraes Garcia da Rocha
+* Alvaro Magnum Barbosa Neto
+* Helaine Solange Lins
+* Gustavo Henrique Rodrigues Pinto Tomas, M.Sc., CIn (UFPE) & System Engineer (CESAR).
+* Welington Manoel da Silva, M.Sc., CIn (UFPE) & System Engineer (CESAR).
+* Ricardo Batista Rodrigues
+* Thiago Pereira de Brito Vieira, M.Sc., CIn (UFPE) & Analyst (ANATEL).
+* Paulo Fernando Almeida Soares, M.Sc., PhD. candidate at UFBA.
+* Hilson Gomes Vilar de Andrade, Professional M.Sc., CIn (UFPE).
+* José Lutiano Costa da Silva, PhD. candidate at (PUC-SP).
+* Bruno Falcão Leão Maia, Professional M.Sc. CESAR.EDU.
+* Dhiego Abrantes de Oliveira Martins, M.Sc. at CIn (UFPE).
+* Saulo Medeiros de Araujo, M.Sc. at CIn (UFPE) & Software Architect at Banco Central (BACEN).
+* Patricia Fontinele Muniz, B.Sc.
+* Elaine Gleyce Mira de Figueiredo, M.Sc., Project Manager (Ogilvy & Mather, OGILVY).
+* Armanda Maria Correia de Amorim Oliveira
+* Francisco Airton Pereira da Silva, M.Sc., Ph.D. candidate at CIn (UFPE).
+* Marco André Santos Machado, M.Sc., Software Engineer (USTORE), curriculum.
+* Jean Louis Brasil Fernandes da Costa, M.Sc., Software Engineer (USTORE), curriculum.
+* Eric Rommel Galvão Dantas
+* Isabel Oliveira Jordão do Amaral, Information Systems B.Sc. student at UFPE.
+* Victor Barros de Miranda Neves
+* Bruno Moura, B.Sc., UFRPE.
+* Rodrigo Hime, B.Sc., UFRPE.
+* Danilo Monteiro Ribeiro
+* José Eudes de Souza Júnior.
+* Denio Batista Brasileiro Bezerra
+* Natanael Souza dos Santos
+* Victor Fontes Seara Ferraz
+* Jorge Henrique Cordeiro Linhares
+* Chrystian José Soares da Silva
+* José de Arimatea Rocha Neto
+* Marcela Pereira de Oliveira
+* Victor Chaves Casé
