@@ -5,7 +5,7 @@ categories: Pesquisa
 tag: seminario
 ---
 
-No dia 07/06/2014, ocorreu no [**Centro de Informática**](http://www.cin.ufpe.br){:target="_blank"} da UFPE o terceiro de uma série de seminários sobre os projetos que estão sendo desenvolvidos pelos membros do **ASSERT Lab**.
+No dia 07/06/2014, ocorreu no [**Centro de Informática**](http://www.cin.ufpe.br){:target="_blank"} da UFPE o terceiro de uma série de seminários sobre os projetos que estão sendo desenvolvidos pelos membros do ASSERT Lab.
 
 No terceiro encontro, o Mestrando **Thiago Jamir**, sob orientação do professor Silvio Meira e co-orientação de Rodrigo Assad, presentou o status do seu trabalho intitulado "_Desenvolvimento de uma arquitetura para um sistema de Cloud Storage_".
 

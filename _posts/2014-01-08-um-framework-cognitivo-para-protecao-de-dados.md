@@ -5,9 +5,7 @@ categories: Pesquisa
 tag: mestrado
 ---
 
-**Motivação**
-
-Com os últimos acontecimentos divulgados ao público sobre o caso Snowden [[http://www.theguardian.com/world/2013/jun/09/edward-snowden-nsa-whistleblower-surveillance](http://www.theguardian.com/world/2013/jun/09/edward-snowden-nsa-whistleblower-surveillance)], o tema privacidade vem assumindo seu lugar nas discussões em diversas áreas do nosso cotidiano.
+**Motivação**: Com os últimos acontecimentos divulgados ao público sobre o caso Snowden [[http://www.theguardian.com/world/2013/jun/09/edward-snowden-nsa-whistleblower-surveillance](http://www.theguardian.com/world/2013/jun/09/edward-snowden-nsa-whistleblower-surveillance)], o tema privacidade vem assumindo seu lugar nas discussões em diversas áreas do nosso cotidiano.
 
 Sabemos que, desde transações online que realizamos até nossos dispositivos móveis, a forma [nada sutil] como nos expomos na famigerada Web 2.0 - onde nós mesmos criamos o conteúdo (que eventualmente acaba revelando mais de nós mesmos do que gostaríamos) - os próprios serviços que utilizamos “gratuitamente”, nos quais a moeda de troca acaba sendo nossos dados, nós acabamos abrindo mão de um recurso que, até pouco, alguns de nós sequer davam alguma importância.
 
@@ -27,25 +25,21 @@ Quanto à privacidade, no estágio atual, a literatura científica aponta para u
 
 Este é o objetivo da minha pesquisa, aplicar os conceitos explicitados no parágrafo anterior, na forma de um framework de gestão de privacidade para dados pessoais, ao contexto de cidades inteligentes, integrado a uma arquitetura subjacente, contemplando a provisão/utilização de serviços num ambiente urbano plenamente ubíquo e pervasivo.
 
-[1] Hill, K. (2012). How target figured out a teen girl was pregnant before her father did. http://onforb.es/180SlGT. "[Online] Available: November 12, 2013"
+[1] Hill, K. (2012). How target figured out a teen girl was pregnant before her father did. <http://onforb.es/180SlGT>. "[Online] Available: November 12, 2013"
 
-&nbsp;
-
-**A proposta**
-
-Inicialmente realizamos um levantamento sobre mecanismos de privacidade propostos para diferentes contextos inteligentes. Anteriormente, havíamos feito uma revisão sistemática especifica para arquiteturas de cidades inteligentes [[http://dl.acm.org/citation.cfm?id=2480688](http://dl.acm.org/citation.cfm?id=2480688)] e vimos que o assunto não era devidamente focado nos trabalhos encontrados. Assim, ponderamos que seria melhor abranger o escopo do levantamento para ambientes inteligentes (_smart homes, smart grid, smart health_, etc.), já que cidades inteligentes essencialmente compreenderiam todos eles.
+**A proposta**: Inicialmente realizamos um levantamento sobre mecanismos de privacidade propostos para diferentes contextos inteligentes. Anteriormente, havíamos feito uma revisão sistemática especifica para arquiteturas de cidades inteligentes [[http://dl.acm.org/citation.cfm?id=2480688](http://dl.acm.org/citation.cfm?id=2480688)] e vimos que o assunto não era devidamente focado nos trabalhos encontrados. Assim, ponderamos que seria melhor abranger o escopo do levantamento para ambientes inteligentes (_smart homes, smart grid, smart health_, etc.), já que cidades inteligentes essencialmente compreenderiam todos eles.
 
 Foram estudados 28 trabalhos, dos quais foi extraído um conjunto de requisitos. Desse conjunto de requisitos, o subconjunto que melhor representava o paradigma centrado no usuário, foi selecionado para fazer parte da proposta. A saber:
 
-*   Degradação de dados, na qual determinado dado torna se inútil com o passar do tempo devido à perda de precisão;
-*   Sensibilidade de dados, que mensura quão sensível determinado dado é, ou em outras palavras, o risco de exposição desse dado;
-*   Confiança sem interação prévia, que aproxima a reputação de uma entidade provedora de serviço baseada em outra similar (o conceito de similaridade no contexto deste trabalho será definido mais adiante);
-*   Múltiplas identidades, na qual cada identidade é composta por um subconjunto de atributos de determinado indivíduo, assim, para consumir determinado serviço, apenas a identidade necessária será exposta;
-*   Minimização de dados, como umas das consequências diretas das múltiplas identidades, onde apenas os dados essenciais são fornecidos; nada mais que isso.
-*   Controle/Feedback para o usuário, este requisito compreende o ciclo de vida dos dados de um indivíduo estarem sob seu controle, bem como sua experiência no consumo de um serviço ser levada em consideração sempre que houver novas interação.
-*   Especificação de preferência, aqui tanto provedores de serviço, quanto indivíduos consumidores de serviço podem especificar as preferências sobre as quais a interação vai ocorrer. Quando as especificações de preferências podem ser feitas por parte do usuário, a literatura dá o nome de _featurization_.
+* Degradação de dados, na qual determinado dado torna se inútil com o passar do tempo devido à perda de precisão;
+* Sensibilidade de dados, que mensura quão sensível determinado dado é, ou em outras palavras, o risco de exposição desse dado;
+* Confiança sem interação prévia, que aproxima a reputação de uma entidade provedora de serviço baseada em outra similar (o conceito de similaridade no contexto deste trabalho será definido mais adiante);
+* Múltiplas identidades, na qual cada identidade é composta por um subconjunto de atributos de determinado indivíduo, assim, para consumir determinado serviço, apenas a identidade necessária será exposta;
+* Minimização de dados, como umas das consequências diretas das múltiplas identidades, onde apenas os dados essenciais são fornecidos; nada mais que isso.
+* Controle/Feedback para o usuário, este requisito compreende o ciclo de vida dos dados de um indivíduo estarem sob seu controle, bem como sua experiência no consumo de um serviço ser levada em consideração sempre que houver novas interação.
+* Especificação de preferência, aqui tanto provedores de serviço, quanto indivíduos consumidores de serviço podem especificar as preferências sobre as quais a interação vai ocorrer. Quando as especificações de preferências podem ser feitas por parte do usuário, a literatura dá o nome de _featurization_.
 
-**O framework de privacidade**
+**O framework de privacidade**:
 
 ![image]({{ BASE_PATH }}/images/2014-01-08-um-framework-cognitivo-para-protecao-de-dados/figura1.png)
 
@@ -57,7 +51,7 @@ Foram estudados 28 trabalhos, dos quais foi extraído um conjunto de requisitos.
 
 **Legal Rules Manager: **Permitir que as questões legais sobre a exposição de dados seja contemplada pelo framework.
 
-**Núcleo Cognitivo**
+**Núcleo Cognitivo**:
 
 *   **_Similarity Manager_**: Responsável por determinar a similaridade entre diferentes provedores de serviço.
 *   **_Preference Manager_**: Responsável por permitir ao usuário impor suas preferências na forma como seus atributos serão expostos, quando, como e por quanto tempo.
@@ -70,6 +64,4 @@ A ideia aqui é que, quanto menor a exposição e maior a proposição de valor,
 
 O estágio atual do projeto trata-se de definir o método de avaliação que poderá ser empregado. Ainda estamos na dúvida de que abordagem aplicar, já que os requisitos são implementados basicamente através de formulas matemáticas, com uma justificativa mais semântica que formal.
 
-&nbsp;
-
-&nbsp;Texto escrito por [Welington Silva](http://welingtonms.wordpress.com/)
+Texto escrito por [Welington Silva](http://welingtonms.wordpress.com/)

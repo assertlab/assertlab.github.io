@@ -5,7 +5,7 @@ categories: Pesquisa
 tag: mestrado
 ---
 
-My name is Francisco Airton, I am a Masters graduate student and this post aims at giving an introductory view of my research, titled “**JiTCA: An Accounting Framework for Federated Clouds”**…
+My name is Francisco Airton, I am a Masters graduate student and this post aims at giving an introductory view of my master degree research at Centro de Informática (UFPE, Brazil), titled “**JiTCA: An Accounting Framework for Federated Clouds**”.
 
 ![]({{ BASE_PATH }}/images/2013-01-22-accounting-cloud-computing/figura1.png)
 
