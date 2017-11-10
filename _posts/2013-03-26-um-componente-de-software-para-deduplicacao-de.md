@@ -9,9 +9,9 @@ Com o aumento da capacidade das unidades de armazenamento, aumentou também a de
 
 A Figura 1 mostra dois gráficos sobre a demanada por armazenamento entre 2006 e 2011. Um deles demonstra o forte crescimento da demanda por armazenamento nas empresas, e o segundo, exibe a queda de 20% ao ano no preço por Gigabytes.
 
-![image](https://github.com/assertlab/assertlab.github.io/blob/master/_posts/2013-03-26-um-componente-de-software-para-deduplicacao-de/figura1.png)
+![image]({{ BASE_PATH }}/images/2013-03-26-um-componente-de-software-para-deduplicacao-de/figura1.png)
 
-Figura 1- Aumento da demanda e redução do custo de hardware de armazenamento (KAPLAN, 2008)
+Figura 1 - Aumento da demanda e redução do custo de hardware de armazenamento (KAPLAN, 2008)
 
 A indústria de TI passou a apostar em sistemas de armazenamento de dados distribuído nos últimos anos. Empresas como Amazon, Google, Microsoft e Salesforce começaram a investir em centros de armazenamentos de dados na nuvem (Cloud Storages), espalhados pelo mundo, com garantia de redundânica e tolerância à falhas.
 
@@ -29,7 +29,7 @@ O [algoritmo para processamento do arquivo em partes](http://dedupeer.com/), tem
 
 Também foi desenvolvido um [sistema para gerenciamento de arquivos](http://dedupeer.com/) com base fundamental no Cassandra, para funcionar como um sistema de armazenamento, e assim facilitar o teste da ferramenta e validação do trabalho, como para os pesquisadores que se interessarem opr analisar a trabalho desenvolvido. Os testes em um ambiente distribuído real estão planejados para início de abril.
 
-Todo o conteúdo produzido neste projeto estará disponível em breve no endereço: https://github.com/paulofernando/dedupeer
+Todo o conteúdo produzido neste projeto estará disponível em breve no endereço: <https://github.com/paulofernando/dedupeer>
 
 Para mais informações sobre o projeto, acesse o site oficial [http://dedupeer.com](http://dedupeer.com/), ou entre em contato com Paulo Fernando, Vinicius Garcia ou Silvio Meira, pelos respectivos endereços: (pfas || vcg || slrm) (at) ([cin.ufpe.br](http://cin.ufpe.br/)).
 

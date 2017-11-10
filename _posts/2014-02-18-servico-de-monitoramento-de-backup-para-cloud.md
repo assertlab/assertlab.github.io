@@ -13,11 +13,11 @@ Além disso, o agente de monitoramento desenvolvido deverá seguir algumas premi
 
 Como pode ser visto na arquitetura da Figura 1 o agente é outro componente externo a aplicação cliente, esta o notificando sempre quando a aplicação estiver inativa, para que, desta forma, o agente possa fazer a leitura dos dados que constam no log, mapeá-los e enviar para a fila de mensagem. Enquanto isso, o Administrator fica aguardando a chegada das novas mensagens para consumi-las, tratar os dados e salva-los no banco de dados e, posteriormente, os gráficos serem gerados.
 
-![](2014-02-18-servico-de-monitoramento-de-backup-para-cloud/figura1.png)
+![]({{ BASE_PATH }}/images/2014-02-18-servico-de-monitoramento-de-backup-para-cloud/figura1.png)
 
 O usuário ao utilizar a aplicação cliente e realizar backup, todos os dados de cada backup estarão sendo inseridos no arquivo de log, sendo todos capturados a partir de algumas variáveis definidas no inicio do método run e capturados mais tarde os valores no final do método depois de ter decorrido o backup, por exemplo, o tempo de inicio e fim que são capturados de acordo o horário do sistema. Depois disso, e de todos os dados capturados, foi utilizado o padrão de projeto observer para quando o usuário finalizar a aplicação cliente, o modulo do agente ser notificado e disparar, em seguida, um chamada ao método run, que lerá o log, mapeando-o para um objeto BackupData que será enviado via mensagem para a fila do ActiveMQ. A aplicação de administração utilizando a classe ListenerBackupData, na qual foi sobrescrito o método onMessage, “escuta” a fila de mensagem, para que quando chegue uma nova, ele possa recebê-la automaticamente. Este método pega os dados da mensagem e insere no banco de dados, para mais tarde ser útil como um histórico para um administrador do sistema e gerar os gráficos demonstrando o comportamento do backup de acordo com a velocidade para cada quantidade de peers utilizados. Como pode ser visto na Figura 2.
 
-![](2014-02-18-servico-de-monitoramento-de-backup-para-cloud/figura2.png)
+![]({{ BASE_PATH }}/images/2014-02-18-servico-de-monitoramento-de-backup-para-cloud/figura2.png)
 
 Desta forma, o agente de monitoramento demonstrou ser capaz de medir e analisar os atributos de desempenho da funcionalidade do backup. Entretanto, garantir somente o backup na aplicação de cloud storage não é o suficiente para assegurar a qualidade do sistema. Além desta, é necessário outros parâmetros como melhor localização dos dados, recuperação dos dados, escalabilidade, segurança e rendimento do sistema [4].
 

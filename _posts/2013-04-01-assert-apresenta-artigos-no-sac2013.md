@@ -7,7 +7,7 @@ tag: conferencia
 
 Entre os dias 18 a 22 estive em Coimbra, Portugal, participando do [28th Symposium on Applied Computing](http://www.acm.org/conferences/sac/sac2013/) (SAC 2013), evento classificado como qualis A1 de acordo com a CAPES, representando os autores (Welington M. da Silva, Gustavo H. R. P. Tomas, Vinicius C. Garcia, Alexandre Alvaro, Ricardo A. Afonso e Kelvin L. Dias) apresentando o paper [Smart Cities Software Architectures: A Survey](http://dinamico2.unibg.it/sa-tta/SAC2013_SA-TTA_accepted_papers.pdf).
 
-![](https://github.com/assertlab/assertlab.github.io/blob/master/_posts/2013-04-01-assert-apresenta-artigos-no-sac2013/figura1.jpg)
+![]({{ BASE_PATH }}/images/2013-04-01-assert-apresenta-artigos-no-sac2013/figura1.jpg)
 
 A track na qual participamos - [Software Architecture: Theory, Technology, and Applications](http://dinamico2.unibg.it/sa-tta/) - foi realizada na quinta feira (21/03).
 
