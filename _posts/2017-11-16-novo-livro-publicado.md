@@ -5,7 +5,7 @@ categories: Noticias
 tag: livro
 ---
 
-Acabou de ser publicado o livro "[UMA INVESTIGAÇÃO SOBRE AS DIFICULDADES DE PLANEJAMENTO DE TI EM INSTITUIÇÕES PÚBLICAS BRASILEIRAS: UMA ABORDAGEM COM TEORIA FUNDAMENTADA EM DADOS](https://www.amazon.com.br/INVESTIGA%C3%87%C3%83O-DIFICULDADES-PLANEJAMENTO-INSTITUI%C3%87%C3%95ES-BRASILEIRAS-ebook/dp/B077GBLBQ3/ref=sr_1_1?ie=UTF8&qid=1510830571&sr=8-1&keywords=vinicius+cardoso+garcia)" de autoria de Plínio Antunes Garcia e Vinicius Cardoso Garcia.
+Acabou de ser publicado o livro "[**UMA INVESTIGAÇÃO SOBRE AS DIFICULDADES DE PLANEJAMENTO DE TI EM INSTITUIÇÕES PÚBLICAS BRASILEIRAS: UMA ABORDAGEM COM TEORIA FUNDAMENTADA EM DADOS**](https://www.amazon.com.br/INVESTIGA%C3%87%C3%83O-DIFICULDADES-PLANEJAMENTO-INSTITUI%C3%87%C3%95ES-BRASILEIRAS-ebook/dp/B077GBLBQ3/ref=sr_1_1?ie=UTF8&qid=1510830571&sr=8-1&keywords=vinicius+cardoso+garcia)" de autoria de Plínio Antunes Garcia e Vinicius Cardoso Garcia.
 
 O livro é resultado de dois anos de pesquisa executados durante o Mestrado Profissional de Plínio, sob oretação do prof. Vinicius, no Centro de Informática de UFPE. Plínio defendeu o seu mestrado em 2016 e no último ano trabalhou para consolidar o conhecimento no livro que acaba de ser publicado.
 
