@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Membros do ASSER publicam livro na Amazon"
+title: "Membros do ASSERT Lab publicam livro na Amazon"
 categories: Noticias
 tag: livro
 ---
