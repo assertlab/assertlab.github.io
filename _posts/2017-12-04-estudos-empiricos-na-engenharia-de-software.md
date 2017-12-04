@@ -52,4 +52,4 @@ doi: [10.1109/TSE.2005.97](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumb
 * Wohlin, C. & Aurum, A. Empir Software Eng (2015) 20: 1427. https://doi.org/10.1007/s10664-014-9319-7
 * Robert K. Yin. Case study research: design and methods. [S.l.]: Sage publications, 2013.
 
-Artigo originalmente publicado em [Estudos Empíricos na Engenharia de Software | viniciusgarcia.me](vinicius3w.github.io/research/estudos-empiricos-na-engenharia-de-software/)
+Artigo originalmente publicado em [Estudos Empíricos na Engenharia de Software :: viniciusgarcia.me](vinicius3w.github.io/research/estudos-empiricos-na-engenharia-de-software/)
