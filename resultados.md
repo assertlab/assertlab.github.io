@@ -41,7 +41,7 @@ permalink: /resultados.html
 
 [[github](https://github.com/assertlab/jacroid){:target="_blank"}]
 
-Plugin para IDE Eclipse com o objetivo de apoiar o desenvolvimento de aplicativos na plataforma Android, dentro do domínio de pessoas como sensores.
+`Plugin para IDE Eclipse com o objetivo de apoiar o desenvolvimento de aplicativos na plataforma Android, dentro do domínio de pessoas como sensores.`
 
 ## EVA: An Environment for Virtual Assistant
 
