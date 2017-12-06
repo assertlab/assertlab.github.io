@@ -37,6 +37,12 @@ permalink: /resultados.html
 
 # Ferramentas
 
+## Jacroid Plugin
+
+[[github](https://github.com/assertlab/jacroid){:target="_blank"}]
+
+Plugin para IDE Eclipse com o objetivo de apoiar o desenvolvimento de aplicativos na plataforma Android, dentro do domínio de pessoas como sensores.
+
 ## EVA: An Environment for Virtual Assistant
 
 [[github](https://github.com/assertlab/eva){:target="_blank"}]
