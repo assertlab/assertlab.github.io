@@ -31,6 +31,9 @@ permalink: /publicacoes.html
 
 ### Monografias / Monoraphies
 
+1. Simone Campos Cohen. [**Avaliação da suscetibilidade dos discentes de TI a ataques de phishing**](https://pt.scribd.com/document/367106132/Avaliac-a-o-da-suscetibilidade-dos-discentes-de-TI-a-ataques-de-phishing){:target="_blank"}. 2017\. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal de Pernambuco. (Supervision: Vinicius Cardoso Garcia).
+1. Dênio Batista Brasileiro Bezerra. [**Análise do Impacto da Estratégia de Uso de Branching em Devops**](https://pt.scribd.com/document/367105873/Ana-lise-do-Impacto-da-Estrate-gia-de-Uso-de-Branching-em-Devops){:target="_blank"}. 2017\. Trabalho de Conclusão de Curso (Graduação em Sistemas de Informação) - Universidade Federal de Pernambuco. (Supervision: Vinicius Cardoso Garcia).
+1. Henrique Vicente de Oliveira Pinto. [**picel - HTTP Middleware for image processing**](https://pt.scribd.com/document/367105701/picel-HTTP-Middleware-for-image-processing){:target="_blank"}. 2017\. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal de Pernambuco. (Supervision: Vinicius Cardoso Garcia).
 1. José Eudes de Souza Júnior. **Automatização na escolha de ferramentas em projetos que aplicam DevOps**. 2017. Trabalho de Conclusão de Curso (Graduação em Sistemas de Informação) - Universidade Federal de Pernambuco. (Supervision: Vinicius Cardoso Garcia).
 1. Dênio Batista Brasileiro Bezerra. **Análise do Impacto da Estratégia de Uso de Branching em Devops**. 2017. Trabalho de Conclusão de Curso (Graduação em Sistemas de Informação) - Universidade Federal de Pernambuco. (Supervision: Vinicius Cardoso Garcia).
 1. Natanael Souza dos Santos. **Análise comparativa de ferramentas de gerenciamento e monitoramento de erros para aplicações java**. 2017. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal de Pernambuco. (Supervision: Vinicius Cardoso Garcia).
@@ -71,14 +74,14 @@ permalink: /publicacoes.html
 
 ### Monografias / Monographies
 
-1. Sandrine Ventura Martins.  Em Direção a uma Proposta Prática para o Ensino da Engenharia de Software no Centro de Informática. 2016. Trabalho de Conclusão de Curso (Graduação em Sistemas de Informação) – Universidade Federal de Pernambuco. (Supervision: Vinicius Cardoso Garcia).
-1. Jorge Henrique Cordeiro Linhares. Usain Bot: Uma proposta de construção de chatterbots como serviço. 2016. Trabalho de Conclusão de Curso (Graduação em Sistemas de Informação) – Universidade Federal de Pernambuco. (Supervision: Vinicius Cardoso Garcia).
-1. Jorge Rodrigues Gomes Vaz Filho. Desenvolvimento de uma Ferramenta de Estratégia do Serviço de Pós-Venda para Auxiliar Lojistas do Ecommerce. 2016. Trabalho de Conclusão de Curso (Graduação em Sistemas de Informação) – Universidade Federal de Pernambuco. (Supervision: Vinicius Cardoso Garcia)
-1. Jônatas da Silva Bezerra. Uma Revisão do Estado da Arte Sobre os Desafios e Efeitos do Uso de Software Defined Data Center (SDDC). 2016. Trabalho de Conclusão de Curso (Graduação em Sistemas de Informação) – Universidade Federal de Pernambuco. (Supervision: Vinicius Cardoso Garcia)
-1. Chrystian José Soares da Silva. Estudo de Mapeamento Sistemático sobre as Tendências e Desafios do Cloud Gaming. 2016. Trabalho de Conclusão de Curso (Graduação em Sistemas de Informação) – Universidade Federal de Pernambuco. (Supervision: Vinicius Cardoso Garcia)
-1. José de Arimatea Rocha Neto. Uma biblioteca Multi-Tenant para o framework Django. 2016. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) – Universidade Federal de Pernambuco. (Supervision: Vinicius Cardoso Garcia) 
-1. Marcela Pereira de Oliveira. Um Estudo Sobre Blockchain e Serviços de Armazenamento Em Nuvem. 2016. Trabalho de Conclusão de Curso (Graduação em Sistemas de Informação) – Universidade Federal de Pernambuco. (Supervision: Vinicius Cardoso Garcia)
-1. Ronald Dener Bezerra Pessa. Internet das Coisas na Indústria Civil Brasileira. 2016. Trabalho de Conclusão de Curso (Graduação em Engenharia da Computação) – Universidade Federal de Pernambuco. (Supervision: Vinicius Cardoso Garcia)
+1. Sandrine Ventura Martins. **Em Direção a uma Proposta Prática para o Ensino da Engenharia de Software no Centro de Informática**. 2016. Trabalho de Conclusão de Curso (Graduação em Sistemas de Informação) – Universidade Federal de Pernambuco. (Supervision: Vinicius Cardoso Garcia).
+1. Jorge Henrique Cordeiro Linhares. **Usain Bot: Uma proposta de construção de chatterbots como serviço**. 2016. Trabalho de Conclusão de Curso (Graduação em Sistemas de Informação) – Universidade Federal de Pernambuco. (Supervision: Vinicius Cardoso Garcia).
+1. Jorge Rodrigues Gomes Vaz Filho. **Desenvolvimento de uma Ferramenta de Estratégia do Serviço de Pós-Venda para Auxiliar Lojistas do Ecommerce**. 2016. Trabalho de Conclusão de Curso (Graduação em Sistemas de Informação) – Universidade Federal de Pernambuco. (Supervision: Vinicius Cardoso Garcia)
+1. Jônatas da Silva Bezerra. **Uma Revisão do Estado da Arte Sobre os Desafios e Efeitos do Uso de Software Defined Data Center (SDDC)**. 2016. Trabalho de Conclusão de Curso (Graduação em Sistemas de Informação) – Universidade Federal de Pernambuco. (Supervision: Vinicius Cardoso Garcia)
+1. Chrystian José Soares da Silva. **Estudo de Mapeamento Sistemático sobre as Tendências e Desafios do Cloud Gaming**. 2016. Trabalho de Conclusão de Curso (Graduação em Sistemas de Informação) – Universidade Federal de Pernambuco. (Supervision: Vinicius Cardoso Garcia)
+1. José de Arimatea Rocha Neto. **Uma biblioteca Multi-Tenant para o framework Django**. 2016. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) – Universidade Federal de Pernambuco. (Supervision: Vinicius Cardoso Garcia) 
+1. Marcela Pereira de Oliveira. **Um Estudo Sobre Blockchain e Serviços de Armazenamento Em Nuvem**. 2016. Trabalho de Conclusão de Curso (Graduação em Sistemas de Informação) – Universidade Federal de Pernambuco. (Supervision: Vinicius Cardoso Garcia)
+1. Ronald Dener Bezerra Pessa. **Internet das Coisas na Indústria Civil Brasileira**. 2016. Trabalho de Conclusão de Curso (Graduação em Engenharia da Computação) – Universidade Federal de Pernambuco. (Supervision: Vinicius Cardoso Garcia)
 
 ## 2015
 
