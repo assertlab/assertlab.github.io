@@ -38,7 +38,7 @@ permalink: /pessoal.html
 * **Lenildo José de Morais**, M.Sc., Project Manager ([USTORE](http://ustore.com.br/){:target="_blank"}), [Lattes](http://lattes.cnpq.br/5598020362509442){:target="_blank"}
 * **Victor Chaves Casé**, B.Sc., Software Mobile Architect ([USTORE](http://ustore.com.br/){:target="_blank"}), [Lattes](http://lattes.cnpq.br/4176953740033046){:target="_blank"}
 * **Alysson Alves de Lima**, M.Sc., Ph.D. candidate at [Centro de Informática](http://www.cin.ufpe.br){:target="_blank"} (UFPE), [Lattes](http://lattes.cnpq.br/7684467910401597){:target="_blank"}
-* **Felipe Oliveira Gutierrez**, M.Sc., Ph.D. candidate at [Centro de Informática](http://www.cin.ufpe.br){:target="_blank"} (UFPE), [Lattes](http://lattes.cnpq.br/8633775775597854){:target="_blank"}
+* **Felipe Oliveira Gutierrez**, M.Sc., [Lattes](http://lattes.cnpq.br/8633775775597854){:target="_blank"}
 * **Elyda Laisa Soares Xavier Freitas**, M.Sc., Ph.D. candidate at [Centro de Informática](http://www.cin.ufpe.br){:target="_blank"} (UFPE), [Lattes](http://lattes.cnpq.br/0804375840636282){:target="_blank"}
 * **Sandrine Ventura Martins**, M.Sc. candidate at [Centro de Informática](http://www.cin.ufpe.br){:target="_blank"} (UFPE), [Lattes](http://lattes.cnpq.br/3989518164012856){:target="_blank"}
 
