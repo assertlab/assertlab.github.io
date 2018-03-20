@@ -13,7 +13,7 @@ tag:
 
 Este é um post baseado no artigo publicado pelo [Dan Vega](http://therealdanvega.com/blog/2018/03/01/what-is-new-spring-boot-2?utm_content=educational&utm_campaign=2018-03-20&utm_source=email-sendgrid&utm_term=554668&utm_medium=760202).
 
-Neste semestre estou ministradno pela primeira uma disciplina inteiraente focada em investigar o desenvolvimento de aplicações "nativas de nuvem" com arquitetura baseada em microservises (mais informações aqui: [Desenvolvimento de Aplicações com Arquitetura Baseada em Microservices](https://github.com/vinicius3w/if1007-Microservices). Como ferramenta adotei o [Spring Boot](https://projects.spring.io/spring-boot/) dado o conjunto de facilidades e benefícios acelerados que teria com o seu uso.
+Neste semestre estou ministrando pela primeira uma disciplina inteiramente focada em investigar o desenvolvimento de aplicações "nativas de nuvem" com arquitetura baseada em microservises (mais informações aqui: [Desenvolvimento de Aplicações com Arquitetura Baseada em Microservices](https://github.com/vinicius3w/if1007-Microservices). Como ferramenta adotei o [Spring Boot](https://projects.spring.io/spring-boot/) dado o conjunto de facilidades e benefícios acelerados que teria com o seu uso.
 
 O foco ficaria muito mais nos conceitos e decisões de projetos do que em questões de codificação, digamos assim. Estratégia também adotada na disciplina de Engenharia de Software (maiores informações aqui: [
 Engenharia de Software (if977)](https://sites.google.com/a/cin.ufpe.br/if977/)), que também ministro, e motivou a escolha da suite de ferramentas pra ela.
@@ -22,11 +22,11 @@ Bem, o Spring Boot 2 acabou de ser lançado e a comunidade já está pronta para
 
 ## História
 
-Antes de trtar do que há de novo, é interessante contextualizar um pouco a história do framework Spring Boot. Em uma publicação num blog publicada em agosto de 2013, [Phil Webb anunciou o lançamento do primeiro marco de um novo projeto chamado Spring Boot](https://spring.io/blog/2013/08/06/spring-boot-simplifying-spring-for-everyone/).
+Antes de tratar do que há de novo, é interessante contextualizar um pouco a história do framework Spring Boot. Em uma publicação num blog publicada em agosto de 2013, [Phil Webb anunciou o lançamento do primeiro marco de um novo projeto chamado Spring Boot](https://spring.io/blog/2013/08/06/spring-boot-simplifying-spring-for-everyone/).
 
 > Spring Boot aims to make it easy to create Spring-powered, production-grade applications and services with minimum fuss. It takes an opinionated view of the Spring platform so that new and existing users can quickly get to the bits they need. You can use it to create stand-alone Java applications that can be started using ‘java -jar’ or more traditional WAR deployments. 
 
-Cerca de 9 meses depois, em abril de 2014, o Spring Boot 1.0 foi lançado. Desde então, houveram inúmeros lançamentos menores e evlu'ões até alcançarmos o estágio atual, conforme pode ser conferido neste post do [Dan Vega](http://therealdanvega.com/blog/2018/03/01/what-is-new-spring-boot-2?utm_content=educational&utm_campaign=2018-03-20&utm_source=email-sendgrid&utm_term=554668&utm_medium=760202).
+Cerca de 9 meses depois, em abril de 2014, o Spring Boot 1.0 foi lançado. Desde então, houveram inúmeros lançamentos menores e evluções até alcançarmos o estágio atual, conforme pode ser conferido neste post do [Dan Vega](http://therealdanvega.com/blog/2018/03/01/what-is-new-spring-boot-2?utm_content=educational&utm_campaign=2018-03-20&utm_source=email-sendgrid&utm_term=554668&utm_medium=760202).
 
 ## O que há de novo no Spring
 
@@ -131,7 +131,7 @@ O Spring Boot Actuator fornece gerenciamento de dependência e configuração au
 * [StatsD](https://docs.spring.io/spring-boot/docs/2.0.x/reference/html/production-ready-metrics.html#production-ready-metrics-export-statsd)
 * [Wavefront](https://docs.spring.io/spring-boot/docs/2.0.x/reference/html/production-ready-metrics.html#production-ready-metrics-export-wavefront)
 
-![]({{ BASE_PATH }}/images/2018-03-20-chegou-o-spring-boot-2/2018-02-28_07-12-582018-02-28_06-59-52.png)
+![]({{ BASE_PATH }}/images/2018-03-20-chegou-o-spring-boot-2/2018-02-28_06-59-52.png)
 
 Mais informações sobre o Micrometerm visite <https://micrometer.io/>
 
@@ -167,6 +167,7 @@ Para desativar o registro do relatório, defina a seguinte propriedade:
 ```java
 spring.devtools.restart.log-condition-evaluation-delta=false
 ```
+
 #### JUnit 5
 
 Conforme já dito anteriormente, o padrão para um aplicativo Spring Boot é ainda usar o JUnit 4. Se quiser mudar para o JUnit 5, será preciso excluir JUnit 4 do teste de inicialização inicial do spring boot e adicionar as dependências necessárias. 
