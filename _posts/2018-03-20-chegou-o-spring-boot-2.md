@@ -11,8 +11,6 @@ tag:
   - spring boot
 ---
 
-Este é um post baseado no artigo publicado pelo [Dan Vega](http://therealdanvega.com/blog/2018/03/01/what-is-new-spring-boot-2?utm_content=educational&utm_campaign=2018-03-20&utm_source=email-sendgrid&utm_term=554668&utm_medium=760202).
-
 Neste semestre estou ministrando pela primeira uma disciplina inteiramente focada em investigar o desenvolvimento de aplicações "nativas de nuvem" com arquitetura baseada em microservises (mais informações aqui: [Desenvolvimento de Aplicações com Arquitetura Baseada em Microservices](https://github.com/vinicius3w/if1007-Microservices). Como ferramenta adotei o [Spring Boot](https://projects.spring.io/spring-boot/) dado o conjunto de facilidades e benefícios acelerados que teria com o seu uso.
 
 O foco ficaria muito mais nos conceitos e decisões de projetos do que em questões de codificação, digamos assim. Estratégia também adotada na disciplina de Engenharia de Software (maiores informações aqui: [
@@ -216,5 +214,7 @@ Conforme já dito anteriormente, o padrão para um aplicativo Spring Boot é ain
 	</plugins>
 </build>
 ```
+
+Este é um post baseado no artigo publicado pelo [Dan Vega](http://therealdanvega.com/blog/2018/03/01/what-is-new-spring-boot-2?utm_content=educational&utm_campaign=2018-03-20&utm_source=email-sendgrid&utm_term=554668&utm_medium=760202).
 
 Artigo originalmente publicado em [Chegou o Spring Boot 2.0](http://viniciusgarcia.me/development/chegou-o-spring-boot-2/) :: [viniciusgarcia.me](http://viniciusgarcia.me/)
