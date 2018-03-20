@@ -216,3 +216,5 @@ Conforme já dito anteriormente, o padrão para um aplicativo Spring Boot é ain
 	</plugins>
 </build>
 ```
+
+Artigo originalmente publicado em [Chegou o Spring Boot 2.0](http://viniciusgarcia.me/development/chegou-o-spring-boot-2/) :: [viniciusgarcia.me](http://viniciusgarcia.me/)
