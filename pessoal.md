@@ -37,13 +37,15 @@ permalink: /pessoal.html
 * **Thiago Jamir e Silva**, M.Sc., Software Architect ([USTORE](http://ustore.com.br/){:target="_blank"}), [Lattes](http://lattes.cnpq.br/9832803117127707){:target="_blank"}
 * **Lenildo José de Morais**, M.Sc., Project Manager ([USTORE](http://ustore.com.br/){:target="_blank"}), [Lattes](http://lattes.cnpq.br/5598020362509442){:target="_blank"}
 * **Victor Chaves Casé**, B.Sc., Software Mobile Architect ([USTORE](http://ustore.com.br/){:target="_blank"}), [Lattes](http://lattes.cnpq.br/4176953740033046){:target="_blank"}
+* **Lucas Serra da Cunha Assad**, Undergraduate, Junior Software Reliability Engineer ([USTORE](http://ustore.com.br/){:target="_blank"}), [Lattes](http://lattes.cnpq.br/2815325942997286)
+* **Gabriel Freitas Vasconcelos**, Undergraduate, Junior Software Reliability Engineer ([USTORE](http://ustore.com.br/){:target="_blank"}), [Lattes](http://lattes.cnpq.br/0049236912396224)
 * **Alysson Alves de Lima**, M.Sc., Ph.D. candidate at [Centro de Informática](http://www.cin.ufpe.br){:target="_blank"} (UFPE), [Lattes](http://lattes.cnpq.br/7684467910401597){:target="_blank"}
-* **Felipe Oliveira Gutierrez**, M.Sc., [Lattes](http://lattes.cnpq.br/8633775775597854){:target="_blank"}
 * **Elyda Laisa Soares Xavier Freitas**, M.Sc., Ph.D. candidate at [Centro de Informática](http://www.cin.ufpe.br){:target="_blank"} (UFPE), [Lattes](http://lattes.cnpq.br/0804375840636282){:target="_blank"}
 * **Sandrine Ventura Martins**, M.Sc. candidate at [Centro de Informática](http://www.cin.ufpe.br){:target="_blank"} (UFPE), [Lattes](http://lattes.cnpq.br/3989518164012856){:target="_blank"}
 
 # Alumni
 
+* Felipe Oliveira Gutierrez
 * Wilson Alves da Silva
 * Willamys Gomes Fonseca Araujo
 * Giovani Felipe Jahn
