@@ -37,6 +37,10 @@ permalink: /resultados.html
 
 # Ferramentas
 
+## Mangue.io
+
+Mangue é uma plataforma para orquestração e gerenciamento de clusters [Kubernetes](https://kubernetes.io/). O Mangue possibilita a criação de um ambiente diversificado, atuando sobre a tecnologia [_contaners_](https://www.docker.com/what-container), fornece a possibilidade de migração de aplicações entre infraestruturas distintas independente do hardware. Além disso fornece uma informação granularizada sobre o consumo e custo a nível de aplicação em tempo real, possibilitando o gestor a escalar sob demanda e reduzir custos. Na perspectiva da equipe de desenvolvimento o Mangue serve como um ambiente para facilitar o processo de [DevOps](https://techcrunch.com/2015/05/15/what-is-devops/) (continuos integration e continuos delivery), permitindo, por exemplo, o _deploy_ e _rollback_ de versões e consequentemente a redução de _time-to-market_.
+
 ## Jacroid Plugin
 
 [[github](https://github.com/assertlab/jacroid){:target="_blank"}]
