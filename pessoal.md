@@ -42,6 +42,7 @@ permalink: /pessoal.html
 * **Alysson Alves de Lima**, M.Sc., Ph.D. candidate at [Centro de Informática](http://www.cin.ufpe.br){:target="_blank"} (UFPE), [Lattes](http://lattes.cnpq.br/7684467910401597){:target="_blank"}
 * **Elyda Laisa Soares Xavier Freitas**, M.Sc., Ph.D. candidate at [Centro de Informática](http://www.cin.ufpe.br){:target="_blank"} (UFPE), [Lattes](http://lattes.cnpq.br/0804375840636282){:target="_blank"}
 * **Sandrine Ventura Martins**, M.Sc. candidate at [Centro de Informática](http://www.cin.ufpe.br){:target="_blank"} (UFPE), [Lattes](http://lattes.cnpq.br/3989518164012856){:target="_blank"}
+* **Ian Marino Lavenere Bastos Fireman**, Undergraduate, Junior Software Engineer ([USTORE](http://ustore.com.br/){:target="_blank"}), [Lattes](http://lattes.cnpq.br/)
 
 # Alumni
 
