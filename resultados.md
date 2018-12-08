@@ -37,6 +37,10 @@ permalink: /resultados.html
 
 # Ferramentas
 
+## professorqrbot: Um Chatbot para auxílio no ensino de engenharia de software
+
+Durante o curso de uma disciplina, os alunos usam uma série de ferramentas para obter as informações necessárias para ter um bom desempenho escolar. Cada professor, que é responsável pelo fornecimento dessas informações, também faz uso de algumas ferramentas, sejam elas digitais ou não, para torná-las acessíveis aos alunos. O objetivo principal deste trabalho é criar uma plataforma de distribuição dessas informações, que podem ser referentes a turma em si, como notas e cronograma, ou relacionadas ao conteúdo de Engenharia de Software. Para isso, foi desenvolvido um Chatbot ([@professorqrbot](https://web.telegram.org/#/im?p=@professorqrbot)) que simula um professor online. Além disso, também foi necessário uma [interface de abastecimento de informações](https://github.com/renatodeyvson/professorqr-dashboard), para que o professor possa alimentar o sistema e a sua [API de back-end](https://github.com/renatodeyvson/professorqr-api).
+
 ## Mangue.io
 
 Mangue é uma plataforma para orquestração e gerenciamento de clusters [Kubernetes](https://kubernetes.io/). O Mangue possibilita a criação de um ambiente diversificado, atuando sobre a tecnologia [_contaners_](https://www.docker.com/what-container), fornece a possibilidade de migração de aplicações entre infraestruturas distintas independente do hardware. Além disso fornece uma informação granularizada sobre o consumo e custo a nível de aplicação em tempo real, possibilitando o gestor a escalar sob demanda e reduzir custos. Na perspectiva da equipe de desenvolvimento o Mangue serve como um ambiente para facilitar o processo de [DevOps](https://techcrunch.com/2015/05/15/what-is-devops/) (continuos integration e continuos delivery), permitindo, por exemplo, o _deploy_ e _rollback_ de versões e consequentemente a redução de _time-to-market_.
